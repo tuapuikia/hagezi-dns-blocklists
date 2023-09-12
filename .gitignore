@@ -1,0 +1,17 @@
+3p/
+data/
+build/
+sources/
+dnsdata/
+scripts/
+work/
+dead.*
+exclude.*
+white.*
+blocked.*
+rules.*
+*.stats
+*.md5
+md5.*
+black.*
+*.bak

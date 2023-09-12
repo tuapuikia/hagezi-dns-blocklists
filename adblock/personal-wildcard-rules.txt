@@ -1,0 +1,612 @@
+! Title: HaGeZi's Personal AdGuard Rules
+! Description: My personal Black & White rules for AdGuard DNS.
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
+! Expires: Updated regularly
+! Syntax: AdGuard
+
+! *** Ads ***
+
+||*-adkviewtrackingtagserver.*.elasticbeanstalk.com^
+||*-ads.aimatch.com^
+||*-adserver-*.*.elasticbeanstalk.com^
+||*adcloud-*.everesttech.net^
+||*met-vgwort-de.cdn.ampproject.org^
+||adform.com^
+||adform.net^
+
+||adjust.com^
+! Referral/Redirect
+@@||app.adjust.com^
+@@||ulink.adjust.com^
+
+||adjust.net.in^
+! Referral/Redirect
+@@||app.adjust.net.in^
+||adjust.io^
+||adjust.world^
+||adnxs-simple.com^
+||adnxs.com^
+
+||adocean.pl^
+! Video streams and content on various websites
+@@||ing.adocean.pl^
+@@||myao.adocean.pl^
+@@||tvn*.adocean.pl^
+
+||adsafeprotected.com^
+||adserver.*.yahoodns.net^
+||adsymptotic.com^
+||adtd.douglas.*^
+||adtima-*.zascdn.*^
+
+||advertising.com^
+! Redirects engadget.com / huffpost.com
+@@||guce.advertising.com^
+
+||advertising-*.dpgmedia.cloud^
+||adzxplore.com^
+||cdn.scarabresearch.com^
+||cxense.com^
+||iad*.dotomi.com^
+||iad-*.appboy.com^
+||notads.*.xyz^
+||pijama.*.elasticbeanstalk.com^
+||programmatics.net^
+||taboola.com^
+||wxadserve.xyz^
+||ad*.ettoday.net^
+||adition.com^
+||adswizz.com^
+||dns-*.iij.ad.jp^
+
+! *** Amazon AWS **
+
+||*-adserver-*.amazonaws.com^
+||*-analytics-*.amazonaws.com^
+||*-beacon-*.amazonaws.com^
+||*-collector-*.amazonaws.com^
+||*-loggers-*.amazonaws.com^
+||*-metrics-*.amazonaws.com^
+||*-telemetry-*.amazonaws.com^
+||adktracking-*.amazonaws.com^
+||adn-tktracking-*.amazonaws.com^
+||ads-*.amazonaws.com^
+||adserver-*.amazonaws.com^
+||ad-server-*.amazonaws.com^
+||adservingvpc-*.amazonaws.com^
+||adsk-*.amazonaws.com^
+||beaconserver-*.amazonaws.com^
+||log-collectors-*.amazonaws.com^
+||popadex-*.amazonaws.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||tracking-*.amazonaws.com^
+||tracker-*.amazonaws.com^
+||webanalytics-*.amazonaws.com^
+||wildcard-ads-*.amazonaws.com^
+
+! *** Amazon Shopping ***
+
+||amazon-adsystem.com^
+! Amazon referral links
+@@||aax-*-retail-direct.amazon-adsystem.com^
+@@||aax-*-retail-direct.amazon.com^
+@@||aax-eu.amazon.*^
+@@||aax-fe.amazon.*^
+@@||assoc-redirect.amazon.*^
+
+! I'm not sure if you need to unblock this yet
+! @@||c.amazon-adsystem.com^
+
+||advertising.amazon.*^
+||assoc-amazon.*^
+
+! Forrester Log Service - market analytics company
+! https://docs.aws.amazon.com/workspaces/latest/adminguide/workspaces-port-requirements.html
+! Breaks Amazon browsing history
+||fls*.amazon.*^
+||forester.a2z.com^
+
+||mads*.amazon.*^
+
+||unagi*.amazon.*^
+! Amazon Apps / Kindle / Fire-Tablet
+! Some say the following "unagi's" limits features, some say it doesn't. I could not notice any limitations so far!
+! @@||unagi.amazon.com^
+! @@||unagi-fe.amazon.com^
+! @@||unagi-na.amazon.com^
+||rcm*.amazon.*^
+
+! *** Amazon Device Metrics ***
+
+||d3p8zr0ffa9t17.cloudfront.net^
+||device-metrics-*.amazon.com^
+||mobileanalytics.*.amazonaws.com^
+
+! *** Amazon Prime Video Telemetry **
+
+||*telemetry.insights.video.a2z.com^
+
+! *** Amazon Sponsored Ads (firetv) ***
+
+||aviary.amazon.*^
+
+! *** Analytics / Tracker / Privacy ***
+
+||*countly*.*^
+
+|analytics.*.*^
+
+|analytic.*.*^
+! ControlD analytics page
+@@||analytics.controld.com^
+! Twitter referral links
+@@||analytics.twitter.com^
+
+|sanalytics.*.*^
+|sanalytic.*.*^
+|metrics.*.*^
+
+|metric.*.*^
+! Not used for tracking, metrics, analytics
+@@||metric.gstatic.com^
+
+|smetrics.*.*^
+|smetric.*.*^
+|piwik.*.*^
+|telemetry.*.*^
+
+||*.analytics.yahoo.com^
+||*analytics.chip.de^
+||*pixel.br.de^
+||*track.bild.de^
+||analytics-*.yinzcam.com^
+||appdynamics.com^
+
+||appsflyer.com^
+! Referral links
+@@||customlinks.appsflyer.com^
+
+||wsmetrics.batch.com^
+||branch.io^
+||braze.com^
+||braze.eu^
+||cquotient.com^
+||cdn-*.onetrust.com^
+||logger-*.dailymotion.com^
+||collector-*.perimeterx.net^
+||collector-*.px-cdn.net^
+||collector-*.px-client.net^
+||collector-*.px-cloud.net^
+||collector-*.pxchk.net^
+||delivery.consentmanager.net^
+||*-tracking.goodgamestudios.com^
+||go-mpulse.net^
+||hotjar.com^
+
+||iocnt.de^
+||iocnt.net^
+! Videos on rtl.de
+@@||rtl-relay.iocnt.net^
+@@||data-*.rtl.de^
+
+||ioam.de^
+||kameleoon.eu^
+||kameleoon.com^
+||*.t.keepitpumpin.io^
+||indexww.com^
+
+||logentries.com^
+# IKEA Tradfri
+@@||webhook.logentries.com^
+
+||api*.mixpanel.com^
+||newrelic.com^
+
+! Nike-Shop payment (#498)
+! Used by Origin for content delivery and others
+@@||cdn*.optimizely.com^
+||log*.optimizely.com^
+
+||tagger.opecloud.com^
+||realytics.io^
+||scorecardresearch.com^
+||sidekickopen*.com^
+
+||split.io^
+! Affects various apps and sites
+@@||auth.split.io^
+@@||cdn.split.io^
+@@||sdk.split.io^
+@@||streaming.split.io^
+
+||technical-service.net^
+! n-tv.de livestream
+@@||te.technical-service.net^
+
+||track*.sevensenders.com^
+||uptain.de^
+||f-log*.grammarly.io^
+||app-analytics*.huami.com^
+||log-collector.shopee.*^
+||analytics*.clickdimensions.com^
+
+||siteintercept.qualtrics.com^
+! Beaks paypal pay process on some german shopping sites
+@@||*paypal*.siteintercept.qualtrics.com^
+
+||wt-eu02.net^
+||wurfl.io^
+||xiti.com^
+||mc.yandex.ru^
+
+||tiqcdn.com^
+! Adblock-Detection: Bild.de, Sport1 and others
+@@||tags.tiqcdn.com^
+@@||www.asadcdn.com^
+
+||log*.aliyuncs.com^
+||*-ia.aimatch.com^
+||goatcounter.com^
+||collect.igodigital.com^
+||tags.newscgp.com^
+||*-dl.urbanairship.com^
+||cookietagmanager.net^
+||*-telemetry-*.tradingview.com^^
+||piwik.pro^
+||*-tracking.crazyegg.com^
+||logs.datadoghq.com^
+||webcache*.datareporter.eu^
+||direct-collect.dy-api.*^
+||*analytics*.echostarbeta.com^
+||conn-service-*.allawnos.com^
+
+||analytics.edgekey.net^
+! Videos on mtv.fi
+@@||ma135-r.analytics.edgekey.net^
+! Chromecast functionality of Disney+ Hotstar app
+@@||79423.analytics.edgekey.net^
+
+||collector.xhamster.*^
+||*-analytics.appspot.com^
+||tracker-*.appspot.com^
+||browser-intake-datadoghq.*^
+
+||tagcommander.com^
+! Search on edeka.de
+@@||cdn.tagcommander.com^
+! Redirect
+@@||redirect*.tagcommander.com^
+
+||aff-tracker.com^
+||mmstat.com^
+
+||rutarget.ru^
+! sberbank.ru
+@@||track.rutarget.ru^
+
+||t.eloqua.com^
+||fwmrm.net^
+||serving-sys.com^
+
+||2o7.net^
+! 2o7.net exceptions
+@@||appleglobal.102.112.2o7.net^
+@@||mediacorp.112.2o7.net^
+@@||oracle.112.2o7.net^
+@@||prisacom.112.2o7.net^
+@@||viarnd.112.2o7.net^
+@@||subarumysubaruappproduction.112.2o7.net^
+@@||cdn.gigya.commes.122.2o7.net^
+@@||webmdglobal.122.2o7.net^
+
+||tracking*.adsafety.net^
+
+||rubiconproject.com^
+! Ask.com search
+@@||micro.rubiconproject.com^
+
+||analytics*.elasticbeanstalk.com^
+||cdn.opecloud.com^
+||tracking*.labcorp.com^
+||collector-*.ghostery.net^
+
+! *** Apple ***
+
+||*analytics-events.apple.com^
+||*analytics-events.news.apple-dns.net^
+||*feedbackws.icloud.com^
+||*metrics.apple.com^
+||*metrics.mzstatic.com^
+||api-adservices.apple.com^
+||iadsdk.apple.com^
+||metrics*.icloud.com^
+||securemvt.apple.com^
+! It's app store tracking, but sometimes it breaks Apple watch/i/mac/tv OS updates!
+! Homepod reports "no internet connection"
+@@||xp.apple.com^
+
+! *** Bugtracker ***
+
+||*-bugs-*.rtl.de^
+||bugs-notify.nordvpn.com^
+||bugsnag.com^
+! Bugsnag
+||d2wy8f7a9ursnm.cloudfront.net^
+||crashlytics.com^
+||errortracking.deepl.com^
+||getsentry.com^
+||instabug.com^
+||sentry-cdn.com^
+||sentry.io^
+|sentry.*.*^
+||crashtracking.*.ring.com^
+
+! *** Google ***
+
+||*.analytics.google.com^
+||*google-analytics.l.google.com^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+||app-measurement.com^
+||beacons*.gvt*.com^
+||crashlyticsreports-pa.googleapis.com^
+! Chormecast devices (connection, groups)
+@@||firebaselogging-pa.googleapis.com^
+! BBC Videos
+@@||fundingchoicesmessages.google.com^
+||google-analytics.com^
+
+||googleadservices.com^
+! Google Search referral links
+@@||www.googleadservices.com^
+@@||adservice.google.*^
+
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagmanager.com^
+! Breaks site layouts, videos and more on some sites
+@@||www.googletagmanager.com^
+@@||www-googletagmanager.l.google.com^
+||googletagservices.com^
+||pagead-googlehosted.l.google.com^
+||doubleclick.net^
+! Google Search referral links
+@@||ad.doubleclick.net^
+! Google Reviews
+@@||id.google.*^
+
+||server-side-tracking-*.appspot.com^
+
+! *** Huawei ***
+
+||ad-*.dbankcloud.*^
+||ad-*.dbankedge.*^
+||ad-*.hicloud.com^
+||adx-*.dbankcloud.*^
+||adx-*.dbankedge.*^
+||adx-*.hicloud.com^
+||datacollector-*.dbankcloud.*^
+||datacollector-*.hicloud.com^
+||dnkeeper*.dbankcloud.*^
+||dnkeeper*.hicloud.com^
+||events-*.dbankcloud.*^
+||events-*.hicloud.com^
+||grs*.dbankcloud.*^
+||grs*.hicloud.com^
+||log*.dbankcloud.*^
+||log*.hicloud.com^
+||metrics*.dbankcloud.*^
+||metrics*.hicloud.com^
+
+! *** Marketing ***
+
+||1mm.fr^
+
+! Google Shopping
+@@||ams*-usadmm-ds.dotomi.com
+
+! *** Microsoft Telemetry ***
+
+||*telemetry.officeapps.live.com^
+||telemetry*.microsoft.com^
+||vortex*.data.microsoft.com^
+||watson*.microsoft.com^
+||measure.office.com^
+! Office / Windows / XBox
+@@||pipe.aria.microsoft.com^
+@@||events*.data.microsoft.com^
+! MSN
+||events*.data.msn.*^
+
+! *** Microsoft Tracker ***
+
+||adv-cloudfilse.azureedge.net^
+||app-fnsp-matomo-analytics-prod.azurewebsites.net^
+||bat.bing.com^
+||cdnnwlive.azureedge.net^
+||clarity.ms^
+||clarity.*.*^
+||fp-cdn.azureedge.net^
+||live-tfs-omnilytics.azurewebsites.net^
+||nlo-stl-web.azureedge.net^
+||pestcontrol-uc1.azureedge.net^
+||sdtagging.azureedge.net^
+! CNAME services.chipotle.com - breaks Chipotle order
+@@||serviceschipotlecom.trafficmanager.net^
+
+! *** Netflix ***
+
+||beacon*.netflix.net^
+||customerevents*.netflix.com^
+! Prevents Netflix from continuing to play videos where you stopped or paused them
+@@||ichnaea*.netflix.com^
+
+! *** Nvidia ***
+
+||telemetry*.nvidia.com^
+
+! *** Popups ***
+
+||7e1e8f3eba.com^
+
+! *** Push Annoyances ***
+
+||cleverpush.com^
+||mycleverpush.com^
+
+! *** Crappy hosts ***
+
+||24smi.*^
+||ad*.on.cc^
+||load*.biz^
+||news-*.cc^
+||news-*.pw^
+||rplnd*.com^
+||ahoravideo-*.com^
+||ahoravideo-*.xyz^
+||fairu-*.com^
+||fairu-*.xyz^
+||rvwgm2wrld*.xyz^
+||wmail-*.com^
+||wmail-*.xyz^
+
+! *** Smart TV ***
+
+||alphonso.tv^
+||collect*.myhomescreen.tv^
+||collector-*.tvsquared.com^
+||flingo.tv^
+||log*.vewd.com^
+||samba.tv^
+||tvping.com^
+||tvtelemetrie.com^
+||tvtelemetrie.de^
+||usage*.myhomescreen.tv^
+
+! LG webOS
+||qt2-ngfts.lge.com^
+||cdpbeacon.lgtvcommon.com^
+||cdpsvc.lgtvcommon.com^
+! Prevents Internet Channel guide data from downloading
+@@||aic.cdpsvc.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||service.lgtvcommon.com^
+! Prevents local OTA Channel guide data from downloading
+@@||aic.service.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||lgsmartad.com^
+! Needed for TV Service Location Area
+@@||*.info.lgsmartad.com^
+
+! *** Lazada ***
+
+||audid-api-sg.taobao.com^
+||cf.aliyun.com^
+||filebroker-cdn.lazada.*^
+||hybrid.miniapp.taobao.com^
+||idfp.tongdun.net^
+||ifs.lazada.sg^
+||jmacs-m.lazada.*^
+||lzd.highway.alibaba-inc.com^
+||msgacs-m.lazada.*^
+||orange-dc.lazada.com^
+||retcode-sg-lazada.arms.aliyuncs.com^
+||sug.lazada.sg^
+||umlazada.alibaba.com^
+||ynuf.aliapp.org^
+||zconfig.alibabausercontent.com^
+
+! *** Shopee - the Shopping "TikTok" ;) ***
+
+||ccms.shopee.io^
+||cvf.shopee.*^
+||dem.shopee.com^
+||df.infra*.shopee.*^
+||endpoint.mms.shopee.*^
+||fe-reporting.shopeemobile.com^
+||frd.shopee.*^
+||gslb.sgw.shopeemobile.com^
+||livetech*.shopee.*^
+||data-rep.livetech.shopee.*^
+||msdk.shopee.*^
+||offline.toc.shopeemobile.com^
+||patronus.idata.shopeemobile.com^
+
+! *** TikTok Fingerprinting ***
+
+||*-ad.byteoversea.com^
+||*-mon-*.bytegsdk.com^
+||*-mon-*.byteoversea.com^
+||ads*.tiktok.com^
+||analytics*.tiktok.com^
+||ib.snssdk.com^
+||log*.bytegsdk.com^
+||log*.byteoversea.*^
+||log*.snssdk.com^
+||log*.tiktok*.com^
+||mon*.byteoversea.com^
+||mon*.tiktok*.com^
+||rtc-log*.tiktok*.com^
+||rtlog*.byteoversea.com^
+||rtlog*.snssdk.com^
+||rtlog*.tiktok*.com^
+||xlog*.byteoversea.com^
+||xlog*.snssdk.com^
+||xlog*.tiktok*.com^
+
+! TikTok login
+@@||*-boot.tiktok*.com^
+
+! *** Xiaomi ***
+
+||t*.a.market.xiaomi.com^
+
+! *** Videos *** @@: Unbreak Videoplayback on various sites
+
+||2mdn.net^
+@@||s0-2mdn-net.l.google.com^
+@@||s0.2mdn.net^
+
+@@||damoh.schneevonmorgen.com^
+@@||glomex.com^
+
+||imrworldwide.com^
+
+||litix.io^
+! Videos on dmax.de
+@@||src.litix.io^
+
+||nmrodam.com^
+||smartclip.net^
+||videostep.com^
+
+||zomap.de^
+@@||lush-clouds.zomap.de^
+@@||swankyrule.zomap.de^
+
+||hit.gemius.pl^
+! Videos on different PL pages
+@@||adocean-pl.hit.gemius.pl^
+@@||gapl.hit.gemius.pl^
+@@||idm.hit.gemius.pl^
+@@||pro.hit.gemius.pl^
+@@||spl.hit.gemius.pl^
+@@||str.hit.gemius.pl^
+
+||aniview.com^
+! Videos on nationalreview.com amt other sites
+@@||play.aniview.com^
+
+||cws*.conviva.com^
+
+||videoplaza.tv^
+! Videos on mtv.fi
+@@||fi-mtv*.videoplaza.tv^
+
+||sensic.net^
+! ORF App
+@@||at-config.sensic.net^

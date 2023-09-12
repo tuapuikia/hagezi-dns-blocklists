@@ -1,0 +1,20 @@
+! Title: HaGeZi's LG webOS Tracker DNS Blocklist
+! Description: Blocks LG webOS native broadband tracker that track your activity.
+! Homepage: https://github.com/hagezi/dns-blocklists
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Expires: 7 days
+! Last modified: 12 Sep 2023 10:24 UTC
+! Version: 2023.0912.1024.54
+! Syntax: AdBlock
+! Number of entries: 10
+!
+||qt2-ngfts.lge.com^
+||ad.lgsmartad.com^
+||cdpbeacon.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||eic.service.lgtvcommon.com^
+||kic.service.lgtvcommon.com^
+||ruc.service.lgtvcommon.com^
+||aic.wiseconfig.lgtvcommon.com^
