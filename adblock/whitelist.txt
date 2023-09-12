@@ -5123,3 +5123,6 @@
 @@|sissyflix.com^
 @@|www.sissyflix.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1558
+@@|stun.l.google.com^
+

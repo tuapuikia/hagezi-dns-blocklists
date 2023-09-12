@@ -4690,3 +4690,6 @@ web.basemark.com
 # https://github.com/hagezi/dns-blocklists/issues/1555
 sissyflix.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1558
+stun.l.google.com
+
