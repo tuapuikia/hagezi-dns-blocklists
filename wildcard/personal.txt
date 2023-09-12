@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Sep 2023 12:09 UTC
-# Version: 2023.0912.1209.57
+# Last modified: 12 Sep 2023 23:46 UTC
+# Version: 2023.0912.2346.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55893
+# Number of entries: 55901
 #
 *.0008d6ba2e.com
 *.000space.com
@@ -1623,6 +1623,7 @@
 *.privacy-api.9gag.com
 *.rlog.9gag.com
 *.t.9gag.com
+*.9gcpz8hu.com
 *.9itan.cc
 *.9jabliss.com
 *.9japride.com
@@ -3246,6 +3247,7 @@
 *.xml.adtube.media
 *.xml-v4.adtube.media
 *.adtvedk.com
+*.p1-lm.adukwai.com
 *.aduld.click
 *.adult.xyz
 *.a.adult-videos.org
@@ -8911,6 +8913,7 @@
 *.botndm.nl
 *.botnrr.xyz
 *.botongfuff.uno
+*.bottelowse.guru
 *.bottledinfectionearthquake.com
 *.bottlerobust.com
 *.metrics.bottlerocket.aws
@@ -9885,8 +9888,7 @@
 *.metric.release.cams.com
 *.camschat.net
 *.camshowdownloads.com
-*.metrics.camsoda.com
-*.promos.camsoda.com
+*.camsoda.com
 *.camsoda1.com
 *.camstime.life
 *.can-get-so.me
@@ -18303,6 +18305,7 @@
 *.dissipatebackyarduncle.com
 *.dissipatedifficulty.com
 *.dissolveretinue.com
+*.distant-session.pro
 *.distantsoil.com
 *.distilinborn.com
 *.distilled.ie
@@ -23691,6 +23694,7 @@
 *.gidraruzxpnew4af.com
 *.data-f59db3288b.giessener-allgemeine.de
 *.gifnestbuy.com
+*.gdfp.gifshow.com
 *.gift2pair.com
 *.giftcardhero.net
 *.giftedhazelsecond.com
@@ -26149,6 +26153,7 @@
 *.hottracker.biz
 *.hotvids.online
 *.hotvids.space
+*.hotwildadult.com
 *.om.hotwire.com
 *.som.hotwire.com
 *.hotwords.com
@@ -28159,6 +28164,7 @@
 *.sentry.ionos.com
 *.t.ionos.com
 *.tif.ionos.com
+*.ionscormationwind.info
 *.iooptqm.com
 *.iopiopiop.net
 *.iopiopiop.org
@@ -28322,7 +28328,6 @@
 *.ironerrooser.com
 *.ironforgemaster.top
 *.reach.ironmountain.com
-*.ironpawtiny.live
 *.ironsource.mobi
 *.ironsrc.com
 *.logs.ironsrc.mobi
@@ -29062,7 +29067,6 @@
 *.jqkcett.icu
 *.jqlwhsl.com
 *.jqpgxwl.in
-*.jqphuor.in
 *.jqpnnib.com
 *.jqscr.com
 *.jqtree.com
@@ -29681,7 +29685,6 @@
 *.kingdomarketdarkweb.link
 *.analytics.kingfeatures.com
 *.kingrecommendation.com
-*.kingskillz.ru
 *.abroad-ad.kingsoft-office-service.com
 *.cloudservice22.kingsoft-office-service.com
 *.kingsoftz.com
@@ -29983,7 +29986,6 @@
 *.koujaups.xyz
 *.koukoku.red
 *.koun-yogen.com
-*.koureptu.xyz
 *.koyotesoft.com
 *.kpcindustry.com
 *.mastertag.kpcustomer.de
@@ -40942,6 +40944,7 @@
 *.msg.video.qiyi.com
 *.nim.qiyukf.com
 *.qizjkwx9klim.com
+*.qjdlivr.com
 *.qjekt0c.xyz
 *.qjudpxkisv.xyz
 *.qjvtofw.com
@@ -44608,6 +44611,7 @@
 *.tp.sheego.de
 *.sheeme.com
 *.sheepforgivedismount.com
+*.sheeptie.xyz
 *.sheerlyballute.website
 *.sheertep.net
 *.sheethoneymoon.com
@@ -50815,6 +50819,7 @@
 *.in.unext.jp
 *.unfainfraseirs.org
 *.unfairpromritual.com
+*.unfeeddizoic.com
 *.unfieryneutral.com
 *.unfina.com
 *.unfolded-economics.com
@@ -53453,6 +53458,7 @@
 *.widgetly.com
 *.widore.com
 *.widow5blackfr.com
+*.widowyreins.com
 *.widual.com
 *.wieczniezywechoinki.pl
 *.wiedemann.com
@@ -54280,6 +54286,7 @@
 *.rainbow-gladius.xhamster.com
 *.rn2vw3.xhamster.com
 *.ro55cpi1.xhamster.com
+*.tokyo.xhamster.com
 *.wi9u5paiwo.xhamster.com
 *.ynoymse4.xhamster.com
 *.z0s9n.xhamster.com
@@ -54856,6 +54863,7 @@
 *.yellowproxy.net
 *.yellpeculiarities.com
 *.yemonisoni.com
+*.yenderagria.life
 *.yengo.com
 *.yepads.com
 *.web.info.yeppon.it

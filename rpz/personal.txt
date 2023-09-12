@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694520540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1694562360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Sep 2023 12:09 UTC
-; Version: 2023.0912.1209.57
+; Last modified: 12 Sep 2023 23:46 UTC
+; Version: 2023.0912.2346.24
 ; Syntax: RPZ
-; Number of entries: 111786
+; Number of entries: 111802
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -7790,6 +7790,8 @@ rlog.9gag.com CNAME .
 *.rlog.9gag.com CNAME .
 t.9gag.com CNAME .
 *.t.9gag.com CNAME .
+9gcpz8hu.com CNAME .
+*.9gcpz8hu.com CNAME .
 9jabliss.com CNAME .
 *.9jabliss.com CNAME .
 9japride.com CNAME .
@@ -9770,6 +9772,8 @@ adtrue.com CNAME .
 *.adtrue.com CNAME .
 adtvedk.com CNAME .
 *.adtvedk.com CNAME .
+p1-lm.adukwai.com CNAME .
+*.p1-lm.adukwai.com CNAME .
 adultadbroker.com CNAME .
 *.adultadbroker.com CNAME .
 adultadvertising.com CNAME .
@@ -18806,10 +18810,8 @@ metric.release.cams.com CNAME .
 *.metric.release.cams.com CNAME .
 camshowdownloads.com CNAME .
 *.camshowdownloads.com CNAME .
-metrics.camsoda.com CNAME .
-*.metrics.camsoda.com CNAME .
-promos.camsoda.com CNAME .
-*.promos.camsoda.com CNAME .
+camsoda.com CNAME .
+*.camsoda.com CNAME .
 camsoda1.com CNAME .
 *.camsoda1.com CNAME .
 can-get-some.com CNAME .
@@ -32270,6 +32272,8 @@ gidraruzxpnew4af.com CNAME .
 *.gidraruzxpnew4af.com CNAME .
 gifnestbuy.com CNAME .
 *.gifnestbuy.com CNAME .
+gdfp.gifshow.com CNAME .
+*.gdfp.gifshow.com CNAME .
 gift2pair.com CNAME .
 *.gift2pair.com CNAME .
 giftedhazelsecond.com CNAME .
@@ -35564,6 +35568,8 @@ sanalytics.hottopic.com CNAME .
 *.sanalytics.hottopic.com CNAME .
 vdkjfd.hottopic.com CNAME .
 *.vdkjfd.hottopic.com CNAME .
+hotwildadult.com CNAME .
+*.hotwildadult.com CNAME .
 om.hotwire.com CNAME .
 *.om.hotwire.com CNAME .
 som.hotwire.com CNAME .
@@ -54332,6 +54338,8 @@ nim.qiyukf.com CNAME .
 *.nim.qiyukf.com CNAME .
 qizjkwx9klim.com CNAME .
 *.qizjkwx9klim.com CNAME .
+qjdlivr.com CNAME .
+*.qjdlivr.com CNAME .
 qjvtofw.com CNAME .
 *.qjvtofw.com CNAME .
 qksrv1.com CNAME .
@@ -67956,6 +67964,8 @@ unevenobjective.com CNAME .
 *.unevenobjective.com CNAME .
 unfairpromritual.com CNAME .
 *.unfairpromritual.com CNAME .
+unfeeddizoic.com CNAME .
+*.unfeeddizoic.com CNAME .
 unfieryneutral.com CNAME .
 *.unfieryneutral.com CNAME .
 unfina.com CNAME .
@@ -71546,6 +71556,8 @@ widore.com CNAME .
 *.widore.com CNAME .
 widow5blackfr.com CNAME .
 *.widow5blackfr.com CNAME .
+widowyreins.com CNAME .
+*.widowyreins.com CNAME .
 widual.com CNAME .
 *.widual.com CNAME .
 wiedemann.com CNAME .
@@ -72548,6 +72560,8 @@ rn2vw3.xhamster.com CNAME .
 *.rn2vw3.xhamster.com CNAME .
 ro55cpi1.xhamster.com CNAME .
 *.ro55cpi1.xhamster.com CNAME .
+tokyo.xhamster.com CNAME .
+*.tokyo.xhamster.com CNAME .
 wi9u5paiwo.xhamster.com CNAME .
 *.wi9u5paiwo.xhamster.com CNAME .
 ynoymse4.xhamster.com CNAME .
@@ -79354,6 +79368,8 @@ bevuelabium.guru CNAME .
 *.bevuelabium.guru CNAME .
 borneolesp.guru CNAME .
 *.borneolesp.guru CNAME .
+bottelowse.guru CNAME .
+*.bottelowse.guru CNAME .
 braiderichu.guru CNAME .
 *.braiderichu.guru CNAME .
 bredajangle.guru CNAME .
@@ -80424,8 +80440,6 @@ jmqxise.in CNAME .
 *.jmqxise.in CNAME .
 jqpgxwl.in CNAME .
 *.jqpgxwl.in CNAME .
-jqphuor.in CNAME .
-*.jqphuor.in CNAME .
 juicyads.in CNAME .
 *.juicyads.in CNAME .
 kanavagronomy.in CNAME .
@@ -81128,6 +81142,8 @@ interpersonalskillse.info CNAME .
 *.interpersonalskillse.info CNAME .
 ionakasulba.info CNAME .
 *.ionakasulba.info CNAME .
+ionscormationwind.info CNAME .
+*.ionscormationwind.info CNAME .
 ishedtotigai.info CNAME .
 *.ishedtotigai.info CNAME .
 itdise.info CNAME .
@@ -85366,6 +85382,8 @@ wychhedgy.life CNAME .
 *.wychhedgy.life CNAME .
 xylidingrewia.life CNAME .
 *.xylidingrewia.life CNAME .
+yenderagria.life CNAME .
+*.yenderagria.life CNAME .
 yojanaarabic.life CNAME .
 *.yojanaarabic.life CNAME .
 zealfulhaired.life CNAME .
@@ -85700,8 +85718,6 @@ huefundfly.live CNAME .
 *.huefundfly.live CNAME .
 inagtwo.live CNAME .
 *.inagtwo.live CNAME .
-ironpawtiny.live CNAME .
-*.ironpawtiny.live CNAME .
 jadspro.live CNAME .
 *.jadspro.live CNAME .
 jellyfishstat.live CNAME .
@@ -101288,6 +101304,8 @@ defensiveevidence.pro CNAME .
 *.defensiveevidence.pro CNAME .
 vst.dfn-network.pro CNAME .
 *.vst.dfn-network.pro CNAME .
+distant-session.pro CNAME .
+*.distant-session.pro CNAME .
 downloadmobile.pro CNAME .
 *.downloadmobile.pro CNAME .
 drproxy.pro CNAME .
@@ -102484,8 +102502,6 @@ kallima.ru CNAME .
 *.kallima.ru CNAME .
 kavanga.ru CNAME .
 *.kavanga.ru CNAME .
-kingskillz.ru CNAME .
-*.kingskillz.ru CNAME .
 kinoaction.ru CNAME .
 *.kinoaction.ru CNAME .
 info.kinoclub77.ru CNAME .
@@ -110292,8 +110308,6 @@ koreanzad.xyz CNAME .
 *.koreanzad.xyz CNAME .
 koujaups.xyz CNAME .
 *.koujaups.xyz CNAME .
-koureptu.xyz CNAME .
-*.koureptu.xyz CNAME .
 kqskqi.xyz CNAME .
 *.kqskqi.xyz CNAME .
 kravma.xyz CNAME .
@@ -111138,6 +111152,8 @@ shavopsi.xyz CNAME .
 *.shavopsi.xyz CNAME .
 sheecmee.xyz CNAME .
 *.sheecmee.xyz CNAME .
+sheeptie.xyz CNAME .
+*.sheeptie.xyz CNAME .
 shijoorg.xyz CNAME .
 *.shijoorg.xyz CNAME .
 shipsmotorw.xyz CNAME .
