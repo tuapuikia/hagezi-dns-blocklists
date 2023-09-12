@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Sep 2023 10:25 UTC
-# Version: 2023.0912.1025.18
+# Last modified: 12 Sep 2023 22:05 UTC
+# Version: 2023.0912.2205.07
 # Syntax: DNSMasq
-# Number of entries: 10256
+# Number of entries: 10252
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -3668,7 +3668,6 @@ address=/greecefarmakeio.com/#
 address=/green-boisdechauffage.com/#
 address=/greenbiday.com/#
 address=/greencardorganization.com/#
-address=/greeneshop.site/#
 address=/greenlinelina.de/#
 address=/greenpayl.top/#
 address=/greensidefrenchies.com/#
@@ -4146,7 +4145,6 @@ address=/hotelsofmenorca.com/#
 address=/hotelsofnewyorkcity.net/#
 address=/hotelwareus.com/#
 address=/hotgenericremedies.com/#
-address=/hotjewelry.store/#
 address=/hotkidsplay.com/#
 address=/hotlodge.at/#
 address=/hotsalebicycle.com/#
@@ -4196,7 +4194,6 @@ address=/hubtrendyus.com/#
 address=/hubusvintage.com/#
 address=/hudyrc.com/#
 address=/hugfirst.com/#
-address=/hughfurniture.xyz/#
 address=/hugoboss-turkey.com/#
 address=/hugobossnz.com/#
 address=/hugobossoutlet.at/#
@@ -4370,7 +4367,6 @@ address=/internationaalverhuisadvies.nl/#
 address=/internationalerumzug.de/#
 address=/interventionen.at/#
 address=/inthefuture.shop/#
-address=/intosunning.com/#
 address=/inuikii-schweiz.com/#
 address=/invest-club-de.com/#
 address=/bitsoftera.invest-shoping.com/#

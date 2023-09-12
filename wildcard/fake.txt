@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Sep 2023 10:25 UTC
-# Version: 2023.0912.1025.18
+# Last modified: 12 Sep 2023 22:05 UTC
+# Version: 2023.0912.2205.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10256
+# Number of entries: 10252
 #
 *.11trikots.com
 *.12-suchen.de
@@ -3668,7 +3668,6 @@
 *.green-boisdechauffage.com
 *.greenbiday.com
 *.greencardorganization.com
-*.greeneshop.site
 *.greenlinelina.de
 *.greenpayl.top
 *.greensidefrenchies.com
@@ -4146,7 +4145,6 @@
 *.hotelsofnewyorkcity.net
 *.hotelwareus.com
 *.hotgenericremedies.com
-*.hotjewelry.store
 *.hotkidsplay.com
 *.hotlodge.at
 *.hotsalebicycle.com
@@ -4196,7 +4194,6 @@
 *.hubusvintage.com
 *.hudyrc.com
 *.hugfirst.com
-*.hughfurniture.xyz
 *.hugoboss-turkey.com
 *.hugobossnz.com
 *.hugobossoutlet.at
@@ -4370,7 +4367,6 @@
 *.internationalerumzug.de
 *.interventionen.at
 *.inthefuture.shop
-*.intosunning.com
 *.inuikii-schweiz.com
 *.invest-club-de.com
 *.bitsoftera.invest-shoping.com
