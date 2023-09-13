@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Sep 2023 22:05 UTC
-# Version: 2023.0912.2205.07
+# Last modified: 13 Sep 2023 10:06 UTC
+# Version: 2023.0913.1006.43
 # Syntax: Domains (without subdomains)
 # Number of entries: 10252
 #
@@ -222,7 +222,6 @@ albarayapothecary.com
 albers-reifenversand.com
 albertaqualitybeef.com
 albertsgruen.de
-alcufee.de
 aldofashion.com
 aldorabatt.de
 aldoschuhe.de
@@ -809,6 +808,7 @@ bear-offers.com
 beastelektroroller.com
 beatricefalck-art.de
 beatusbikes.com
+beauty-ventura.com
 beautyaskin.com
 beautydreams24.com
 beautygiftsets.com
@@ -888,6 +888,7 @@ bessere-reifen.de
 best-apotheke.online
 best-home.store
 best-income-source.com
+best-ticket.com
 best24rxonline.shop
 best4you.org
 bestalpinism.com
@@ -1070,6 +1071,7 @@ bitcoin-revolution.org
 bitcoin-trader.net
 bitcoin-up.io
 bitcoin360.ai
+bitcoin360ai.com
 bitcoin360aipro.online
 bitcoinarchon.com
 bitcoinarchon.org
@@ -1937,7 +1939,6 @@ daddeln.net
 daflix.de
 dafloxx.de
 dahlmuehle.de
-daily-clearance.com
 dailypotteredstore.com
 dailysportsgolf.com
 dailystuffstore.com
@@ -2468,7 +2469,6 @@ eiroshop.lv
 eis-henning.de
 eisenhart.at
 eisschild.com
-ekehau.com
 ekiz-volders.at
 eko-group.de
 eko-immo.com
@@ -3482,6 +3482,7 @@ ggsportsagents.com
 ggv-tk.de
 ghglc.site
 ghingwala.shop
+ghjoeij.store
 ghostarmy.de
 gideonsarmymusic.com
 giesler-drogerie.com
@@ -3676,7 +3677,6 @@ gregora.de
 grensondeutschland.de
 grensonschuhe.de
 grfarmakeio.com
-griesinger-gartenhandel.de
 grill-accessories.com
 grill-shop.eu
 grillen-shop.com
@@ -3712,7 +3712,6 @@ growice.com
 grubb-trans.com
 grubmanns.de
 gruene-niederbarnim.de
-gruenstark.de
 gshpanel.com
 gsialfresco.com
 gtblogistics.com
@@ -4014,7 +4013,6 @@ rfit.hirship.com
 shade.hirship.com
 hitech-shop.com
 hivintage.com
-azh.hjklgf.tk
 hkaf-dienst.com
 hkls.at
 hkontrade.com
@@ -4224,6 +4222,7 @@ hw-invest.at
 hybazzar.com
 hybridtradeoptions.com
 hydrationoutdoor.com
+hydrip.de
 hydroforming.at
 hydrogearworld.com
 shop.hyper-tech.co
@@ -4242,6 +4241,7 @@ iamsogood.shop
 iancheer.com
 ib-kahrer.at
 ibid-events.com
+ibis-baustoffe.de
 ibismall.net
 ibiza-bookingvillas.com
 ibkulwear.com
@@ -4288,7 +4288,6 @@ imedilove.top
 imens-meds.net
 immediate-connect.app
 immediate-edge.co
-immediate-momentum.com
 immediate-momentum.io
 immediate-momentum.org
 immediateconnect.ai
@@ -4587,6 +4586,7 @@ crdbhqef.karismalashes.com
 karlkanide.shop
 karlsale.com
 karlstadtertafel.de
+karmavana.de
 karneval-zingst.de
 karpfenrutengeschaft.com
 karrimorschuhe.de
@@ -4745,6 +4745,7 @@ klempner-notdienst.net
 kletternalpinismus.de
 klgm-eiche.de
 klick-ndb.de
+kling-rasenmaher.com
 klomatmaschinen.com
 klugeule.de
 kmlowe.com
@@ -4781,7 +4782,6 @@ knivesoff.com
 knivesolamic.com
 knivesperfect.com
 knivessiteoff.com
-knochlein.com
 knowlikebuy.com
 knwex.com
 ko-consult.at
@@ -4867,6 +4867,7 @@ kyaeni.at
 kybcart.shop
 kyoshorc.com
 kzv-kirdorf.de
+l6shop.pw
 laboitenomade.de
 labq22.in
 lackner-it.at
@@ -4916,7 +4917,6 @@ lanetech.de
 lange-reifenhandel.shop
 lanka-money-transfer.de
 lanno.co
-lantana-handel.com
 lappjantan.com
 laptop-akku-shop.com
 laptop-akkus.de
@@ -5009,7 +5009,6 @@ lensivy.com
 leonardo-essen.de
 leonstadler.de
 leopanda-elektro.com
-lepinland.com
 lernspielzeugneu.de
 lesandalouses.com
 lesculturelles.com
@@ -5093,7 +5092,6 @@ littlemaryshoe.com
 liuxmiu.shop
 livablefurniture.com
 livelearningzone.com
-livetimee.com
 livewithoutwars.org
 livingchamonix.com
 livinghome-shop.de
@@ -5170,7 +5168,6 @@ lowaportugal.com
 lowaportugals.com
 lowaretail.shop
 lowasale.de
-lowasales.com
 lowaschuhefabrikverkauf.de
 lowpriceshoespro.com
 lprhomes.com
@@ -5231,7 +5228,6 @@ magicmixte.com
 magicoa.co
 magicofwomen.com
 magischepfoten.de
-magliecalciocn.net
 magmovenergy.com
 magnafinanceholdings.com
 magros-welt.de
@@ -5402,7 +5398,6 @@ mdusershop.com
 mealsonwheels.at
 meatandeasy.at
 mechanischeonderdelentekoop.xyz
-med-es.com
 med2med.at
 meddirekt24.com
 media-deals24.de
@@ -5562,6 +5557,7 @@ mililandz.com
 millionaersuchtfrau.de
 millyhomepool.com
 miloujewelrys.com
+milreo.shop
 miltonas.com
 milzy.de
 mimiplay.de
@@ -5601,7 +5597,6 @@ mizunoosterreichonline.com
 mk-stern.de
 mkcshop.com
 mkiplmout.com
-mkleider.de
 mlektro.com
 mmfit.eu
 mnoramemeti.com
@@ -5678,6 +5673,7 @@ money-sustemftd.cyou
 monika-seweron.de
 monkeygoods.de
 monokompakt.de
+monsieur-pharmacien.com
 mob.montage-spezialist.at
 montanahudson.com
 montblancpenseshop.co
@@ -5838,6 +5834,7 @@ n5dlcjpxy.shop
 naatik.shop
 nachtbim.at
 nadiano.de
+nadinewelpezurverfgung.com
 nagelpilzkiller.de
 nakiyalee.com
 nalaiandco.com
@@ -5998,10 +5995,12 @@ nger.de
 nhelalab.shop
 nicdampier.com
 nicdiamond.de
+nice02.com
 nicegolfshop.com
 niceindoorplant.com
 nicelightshop.com
 nicenktop.com
+niceonsale.com
 nicepajamastore.com
 nicestylish.com
 nicetechmax.com
@@ -6015,7 +6014,6 @@ nicoll.at
 nideckernitro.com
 niephaus-elektro.com
 nikefreernoutlet.com
-nikeinslovenia.com
 nikeosterreichshop.com
 nikesale-us.vip
 nikeschuhes.de
@@ -6233,6 +6231,7 @@ oilprofit.io
 de.oilprofit-official.com
 oilsmsem.com
 oinepukin.com
+oins.shop
 oirudinkep.com
 oketofit.com
 okfitness.at
@@ -6678,7 +6677,6 @@ pf0.cc
 pfarrei-herz-mariae-igb.de
 pfennig-energieholz.com
 pferdehof-kraus.de
-pflanz-stein.de
 pfotenschule-bremen.de
 pg99.cc
 phanotech.de
@@ -7328,13 +7326,13 @@ replica-uhren.cc
 replicakaufen.de
 replicareview.io
 replicauhren.kaufen
+replicauhrenol.de
 replicawatchtr.com
 replika-uhr.to
 replikuhrenshop.de
 reptileagent.at
 repuhren.de
 resid3ncy.com
-restaurantnamaskar.de
 restdiablo.com
 restliss.com
 retailbbq.com
@@ -7366,6 +7364,7 @@ rheokth.top
 rheumatologie-wien.at
 rheumatopia.de
 rhodeshotel24.com
+rhs-versand.de
 rhurhu.com
 riadlalla.com
 ricadihotelspage.com
@@ -8131,7 +8130,6 @@ smarty-shop24.de
 smitdeals.de
 smokingwares.com
 smoktop.com
-smtoysoutlet.com
 smushgame.com
 smxrt.de
 sneaker-storeshop.com
@@ -8203,7 +8201,6 @@ sommerekzem.at
 somoa.at
 sona-med.at
 sonaliguitarist.com
-sonerly.com
 song-creator.com
 sonnenheld.at
 sonnesucht.de
@@ -8328,6 +8325,7 @@ spyxe.de
 squet.store
 m.sroyiglobal.com
 srrcops.org
+ssceuns.shop
 ssense.vip
 sskkl.shop
 ssobkhabar.top
@@ -9338,6 +9336,7 @@ uhren-beweger.at
 uhrenvip.de
 uhrsprung-bar.at
 uhrstern.net
+ujh-tele.de
 adidasuk.uk.com
 adidasyeezy.uk.com
 bestnikekickssale.uk.com
@@ -9418,6 +9417,7 @@ ursulam.com
 adidas.us.com
 coachoutlet-store.us.org
 jordan-shoes.us.com
+onclouds.us.com
 otto.us.com
 ray-ban-glasses.us.com
 shoesyeezys.us.com
@@ -9647,10 +9647,8 @@ veramundo.net
 verbundmarkt.com
 vereins-web.at
 verenabunte.com
-verios-gaming.de
 verkauf-kaminholz.de
 verkauf-motorrad.com
-verkauf-scooter.com
 verkauffahrradbike.com
 verkaufre.de
 verkaufschuhe.de
@@ -9695,6 +9693,7 @@ vienna-ag.at
 viennaapartments.org
 viennagroup.at
 vientooffice.de
+vierjahreszeiten-versands.de
 villa-pegasus.de
 villafroschkoenig.de
 vincentteh.com
@@ -9797,6 +9796,7 @@ volina.de
 volini.de
 volk-reifen.com
 volkersheim-bockenem.de
+volksfx.net
 volksmedia.at
 vollebude.de
 vollmer-replica.com
@@ -9832,7 +9832,6 @@ vylkogroup.com
 wake-up-easy.eu
 waldeber.de
 waldgewandt.de
-waldholz.net
 walgfashion.com
 walinea-grill.de
 wallmirrorwithshelf.com
@@ -9973,7 +9972,6 @@ wetting.de
 wgmannheim.de
 whansurflead.com
 whatstore.de
-whcert.com
 wheelskit.com
 wheelsprint.com
 whiindia.org
@@ -10035,6 +10033,7 @@ wndirectusa.com
 wodify.store
 wohanm.com
 wohlfuehl.at
+wohlrab-handel.de
 wohlwohnen.at
 wohnenlinxx.de
 wohnmobil-ludwig.de
@@ -10225,6 +10224,7 @@ zockerbase.de
 zockertraum.at
 zolindo.de
 zollernalb-film.de
+zomzey.com
 zone-knives.com
 zone-truck.com
 zone-vogue.com
