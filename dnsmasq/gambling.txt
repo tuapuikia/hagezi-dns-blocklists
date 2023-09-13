@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2023 21:53 UTC
-# Version: 2023.0912.2153.10
+# Last modified: 13 Sep 2023 21:54 UTC
+# Version: 2023.0913.2154.57
 # Syntax: DNSMasq
-# Number of entries: 168615
+# Number of entries: 168617
 #
 address=/0-bet.com/#
 address=/000000.com/#
@@ -99857,6 +99857,7 @@ address=/betprestige.com/#
 address=/betprimetime.com/#
 address=/betpro.it/#
 address=/betpto.com/#
+address=/betql.co/#
 address=/betqs.com/#
 address=/betquick.com/#
 address=/betraja.in/#
@@ -112156,6 +112157,7 @@ address=/er8579.com/#
 address=/er875.vip/#
 address=/er9733.com/#
 address=/eratogel.me/#
+address=/ercdc.org/#
 address=/erekb.win/#
 address=/erfgh.win/#
 address=/erht5.vip/#
