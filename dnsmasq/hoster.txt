@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2023 10:09 UTC
-# Version: 2023.0912.1009.11
+# Last modified: 13 Sep 2023 09:52 UTC
+# Version: 2023.0913.0952.52
 # Syntax: DNSMasq
 # Number of entries: 2012
 #
@@ -1277,7 +1277,6 @@ address=/medianewsonline.com/#
 address=/medstylovnia.pl/#
 address=/mee.nu/#
 address=/megabyet.net/#
-address=/megz-bytes.com/#
 address=/memoryislife.com/#
 address=/metropolgoesgreen.de/#
 address=/mex.tl/#
@@ -1950,6 +1949,7 @@ address=/worldwebworks.cz/#
 address=/wox.cc/#
 address=/wpengine.com/#
 address=/wpenginepowered.com/#
+address=/wpeproxy.com/#
 address=/wpmudev.org/#
 address=/wpsuo.com/#
 address=/writes.de/#
