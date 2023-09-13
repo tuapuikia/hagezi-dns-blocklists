@@ -4693,3 +4693,12 @@ sissyflix.com
 # https://github.com/hagezi/dns-blocklists/issues/1558
 stun.l.google.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1560
+*.app.chat.xiaomi.net
+
+# RaiDrive, a cloud software for Windows
+app.raidrive.com
+
+# MagentaCloud login
+tags-eu.tiqcdn.com
+
