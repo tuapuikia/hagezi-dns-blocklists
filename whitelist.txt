@@ -4702,3 +4702,9 @@ app.raidrive.com
 # MagentaCloud login
 tags-eu.tiqcdn.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1561
+elpais.es
+
+# https://github.com/hagezi/dns-blocklists/issues/1563
+ratemyteachers.com
+
