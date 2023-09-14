@@ -4708,3 +4708,6 @@ elpais.es
 # https://github.com/hagezi/dns-blocklists/issues/1563
 ratemyteachers.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1564
+createsend.com
+

@@ -5143,3 +5143,7 @@
 @@|ratemyteachers.com^
 @@|www.ratemyteachers.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1564
+@@|createsend.com^
+@@|www.createsend.com^
+
