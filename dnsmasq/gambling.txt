@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Sep 2023 09:59 UTC
-# Version: 2023.0914.0959.49
+# Last modified: 14 Sep 2023 22:05 UTC
+# Version: 2023.0914.2205.10
 # Syntax: DNSMasq
-# Number of entries: 168536
+# Number of entries: 168533
 #
 address=/0-bet.com/#
 address=/000000.com/#
@@ -17019,7 +17019,6 @@ address=/1win-officialsite-casino.shop/#
 address=/1win-oficial-site10.top/#
 address=/1win-onlines5.top/#
 address=/1win-play.ru/#
-address=/1win-play.website/#
 address=/1win-poker.com/#
 address=/1win-pre1.top/#
 address=/1win-pro.com/#
@@ -17043,7 +17042,6 @@ address=/1win24h.top/#
 address=/1win8.bet/#
 address=/1winbet.in/#
 address=/1winbk-official-site.top/#
-address=/1wincasino.live/#
 address=/1wincasino.website/#
 address=/1wincasino-bezdepbonus.fun/#
 address=/1wincasino-mobile.cfd/#
@@ -99641,7 +99639,6 @@ address=/betfaircasino.app/#
 address=/betfaircasino.bet/#
 address=/betfaircasino.vip/#
 address=/betfairgames.com/#
-address=/betfairpk.com/#
 address=/betfairpredicts.com/#
 address=/betfan.pl/#
 address=/betfaq.com/#
@@ -134381,6 +134378,7 @@ address=/luckyniki.com/#
 address=/luckynuggetcasino.com/#
 address=/luckypinas.com/#
 address=/luckypinas.live/#
+address=/luckypuppybingo.com/#
 address=/luckyredcasino.com/#
 address=/luckysb.com/#
 address=/luckysbook.com/#
@@ -168371,7 +168369,6 @@ address=/zun44.com/#
 address=/zun55.com/#
 address=/zun66.com/#
 address=/zun77.com/#
-address=/zun888.net/#
 address=/zunlong0.com/#
 address=/zunlong05.com/#
 address=/zunlong09.com/#
