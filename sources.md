@@ -506,6 +506,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akam
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certfa.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
