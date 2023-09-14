@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Sep 2023 10:06 UTC
-# Version: 2023.0913.1006.43
+# Last modified: 14 Sep 2023 10:12 UTC
+# Version: 2023.0914.1012.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 10252
+# Number of entries: 10238
 #
 11trikots.com
 12-suchen.de
@@ -247,6 +247,7 @@ alienoa.de
 all-roundgeneral.com
 all-roundsurfsale.com
 all-roundvoguenew.com
+all4passion.net
 all4you-fashion.com
 allaccessorybest.com
 allbirdsaustria.com
@@ -946,7 +947,6 @@ bestsellersride.com
 bestsellersvogue.com
 bestslshop.com
 besttoolkits.com
-rabatt.besttshopping.com
 bestybike.com
 betowinmall.com
 betterinbed.shop
@@ -2091,7 +2091,6 @@ der-terrarist.de
 derabattfahrrad.com
 deregresoalafuente.com
 derfairmieter.de
-derholzmarkt.com
 derkatzenshop.de
 derpokal.at
 dersupertiger.de
@@ -2183,7 +2182,6 @@ dima-sport.de
 dinnerfiresale.com
 dinosaurier.store
 directlogistics.com
-dirkelektro.com
 dirkethilfe24.at
 dirksen-container.com
 dirkuhren.de
@@ -2404,7 +2402,6 @@ eccoschuheberlin.de
 eccoschuhefabrikverkauf.at
 eccoschuhefabrikverkauf.com
 eccoschuhfabrikverkauf.at
-ececanguden.com
 echoextremetool.com
 echopark-markt.com
 eckerling.de
@@ -2501,7 +2498,6 @@ elektriker7d.at
 elektrikernotdienstwien.at
 elektro-beuss.de
 elektro-bohmer.com
-elektro-buehring.net
 elektro-ecke.de
 elektro-engel.de
 elektro-evolution.de
@@ -2517,7 +2513,6 @@ elektro-stone.de
 elektro-wunderland.de
 elektrobester.com
 elektrofahrradladen.de
-elektroheiz.com
 elektrohoppe.de
 elektrokaufenmarkt.com
 elektroklelimp.com
@@ -3059,7 +3054,6 @@ firealight.com
 first-aid-drug.com
 first-aid-drugs.com
 first-investcapital.com
-firstaids.shop
 fischende.com
 fischer-spiele.com
 fischerrabatt.de
@@ -3214,7 +3208,6 @@ foxflix.de
 foxnewstrade.org
 fpilahue.com
 fr-energie-bois.com
-fraktion-bfz-gruene.de
 franceshopping.online
 frankiemakeupartist.com
 frankiesdubai.com
@@ -3281,6 +3274,7 @@ fun-for-bikes.com
 functoolslp.com
 fundfconsult.at
 funfunlego.com
+funkelnelektronik.de
 funkidsstore.com
 funnyhas.com
 funswan.de
@@ -5176,7 +5170,6 @@ lscodockersat.com
 ltbvipg.com
 luccafiore.com
 lucimen.com
-lucretias.shop
 lucullusacademy.com
 lucybreeze.com
 lukaschleeh.de
@@ -5196,7 +5189,6 @@ lunabfashion.com
 smartphonepeak.lunakebe.com
 lunanaa.top
 lungauphysio.at
-lunia-store.com
 lunion.ch
 lutricia-bock.de
 luvemo.de
@@ -5374,7 +5366,6 @@ maxxdrinks.com
 maxxflix.de
 maxxi.tech
 mayamedicalpharm.shop
-mayhemfinancial.com
 mayr-reifen.com
 mayrhofen-hotels.at
 mba-ue.de
@@ -5546,7 +5537,6 @@ mighty-offrs.net
 mih-luehr.de
 mihorga.com
 miikorn.shop
-mikedavis.de
 mikeelike.com
 mikenovember.com
 mikrofinanz.org
@@ -5645,7 +5635,6 @@ modishgolf.com
 modishoutdooritem.com
 moditec.fr
 modoli.de
-modovia.de
 modplay.de
 modulerdekor.com
 moebeleu.de
@@ -7450,7 +7439,6 @@ rollerskatesonsale.com
 rolly-energie.at
 romaduca.it
 romebridal.com
-romeyfashion.com
 ronado.de
 ronain.com
 ronald-schminke.de
@@ -8601,7 +8589,6 @@ susanlattwein.com
 susanreginato.com
 sushiwalkca.com
 sustagon.com
-sutton-estate.com
 sv-blaschke.de
 sven-kehmeier.de
 svgbarbis.de
@@ -8913,7 +8900,6 @@ thermograph.at
 thermohands.de
 thermomix.world
 thermoshapers.de
-therory.shop
 thesafetyequip.com
 theshiptrade.com
 theshoegift.com
