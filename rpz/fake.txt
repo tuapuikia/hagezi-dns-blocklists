@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694686320 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1694729820 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Sep 2023 10:12 UTC
-; Version: 2023.0914.1012.10
+; Last modified: 14 Sep 2023 22:17 UTC
+; Version: 2023.0914.2217.28
 ; Syntax: RPZ
-; Number of entries: 20476
+; Number of entries: 20420
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1900,8 +1900,6 @@ accessory-series.com CNAME .
 *.accessory-series.com CNAME .
 acemoyusy.com CNAME .
 *.acemoyusy.com CNAME .
-aceytw.com CNAME .
-*.aceytw.com CNAME .
 achicwomen.com CNAME .
 *.achicwomen.com CNAME .
 acprdcu.com CNAME .
@@ -2086,8 +2084,6 @@ almoes.com CNAME .
 *.almoes.com CNAME .
 alocar-gmbh.com CNAME .
 *.alocar-gmbh.com CNAME .
-alochizshop.com CNAME .
-*.alochizshop.com CNAME .
 aloyogaaustria.com CNAME .
 *.aloyogaaustria.com CNAME .
 aloyogadeutschlande.com CNAME .
@@ -2586,8 +2582,6 @@ bami-store.com CNAME .
 *.bami-store.com CNAME .
 bapegermany.com CNAME .
 *.bapegermany.com CNAME .
-bapeoutfits.com CNAME .
-*.bapeoutfits.com CNAME .
 barbequesale.com CNAME .
 *.barbequesale.com CNAME .
 barbourfashion.com CNAME .
@@ -2724,8 +2718,6 @@ begime.com CNAME .
 *.begime.com CNAME .
 begra-photovoltaik.com CNAME .
 *.begra-photovoltaik.com CNAME .
-behfarmd.com CNAME .
-*.behfarmd.com CNAME .
 bekleidungsaleshop.com CNAME .
 *.bekleidungsaleshop.com CNAME .
 bekleidungsoutlet.com CNAME .
@@ -2844,10 +2836,6 @@ bestslshop.com CNAME .
 *.bestslshop.com CNAME .
 besttoolkits.com CNAME .
 *.besttoolkits.com CNAME .
-bestybike.com CNAME .
-*.bestybike.com CNAME .
-betowinmall.com CNAME .
-*.betowinmall.com CNAME .
 bettwaren-sales.com CNAME .
 *.bettwaren-sales.com CNAME .
 bettyshops.com CNAME .
@@ -2866,8 +2854,6 @@ bhmbp.com CNAME .
 *.bhmbp.com CNAME .
 bhmconference.com CNAME .
 *.bhmconference.com CNAME .
-bhrutush.com CNAME .
-*.bhrutush.com CNAME .
 bicycle-clearance.com CNAME .
 *.bicycle-clearance.com CNAME .
 bicycle-exercise.com CNAME .
@@ -2992,8 +2978,6 @@ bitcoin360ai.com CNAME .
 *.bitcoin360ai.com CNAME .
 bitcoinarchon.com CNAME .
 *.bitcoinarchon.com CNAME .
-bitcoinmethodofficial.com CNAME .
-*.bitcoinmethodofficial.com CNAME .
 bitcoinmotion.com CNAME .
 *.bitcoinmotion.com CNAME .
 bitcoinwebr.com CNAME .
@@ -3010,10 +2994,6 @@ bivouacoffer.com CNAME .
 *.bivouacoffer.com CNAME .
 bivouacsale.com CNAME .
 *.bivouacsale.com CNAME .
-bixfin.com CNAME .
-*.bixfin.com CNAME .
-bjorkcoffee.com CNAME .
-*.bjorkcoffee.com CNAME .
 bjornborgdiscount.com CNAME .
 *.bjornborgdiscount.com CNAME .
 blackrmarket.com CNAME .
@@ -3024,8 +3004,6 @@ blankets-sale.com CNAME .
 *.blankets-sale.com CNAME .
 blanketsforanimals-sale.com CNAME .
 *.blanketsforanimals-sale.com CNAME .
-blaqcosmetic.com CNAME .
-*.blaqcosmetic.com CNAME .
 blastashop.com CNAME .
 *.blastashop.com CNAME .
 blattholz.com CNAME .
@@ -13920,10 +13898,6 @@ ovxh.schimmelpeter.cz CNAME .
 *.247blue.de CNAME .
 24things.de CNAME .
 *.24things.de CNAME .
-2rad-billig.de CNAME .
-*.2rad-billig.de CNAME .
-2rad-billiger.de CNAME .
-*.2rad-billiger.de CNAME .
 2rad-kern.de CNAME .
 *.2rad-kern.de CNAME .
 2rad-klein.de CNAME .
@@ -14264,8 +14238,6 @@ baumarktverkauf.de CNAME .
 *.baumarktverkauf.de CNAME .
 baumpflege-spoerl.de CNAME .
 *.baumpflege-spoerl.de CNAME .
-baustoff-renta.de CNAME .
-*.baustoff-renta.de CNAME .
 bauzeug.de CNAME .
 *.bauzeug.de CNAME .
 baya-bikinis.de CNAME .
@@ -14356,16 +14328,8 @@ bhechler.de CNAME .
 *.bhechler.de CNAME .
 bhgartenbau.de CNAME .
 *.bhgartenbau.de CNAME .
-bike-hager.de CNAME .
-*.bike-hager.de CNAME .
 bike-hagers.de CNAME .
 *.bike-hagers.de CNAME .
-bike-hubo.de CNAME .
-*.bike-hubo.de CNAME .
-bike-radu.de CNAME .
-*.bike-radu.de CNAME .
-bike-rufo.de CNAME .
-*.bike-rufo.de CNAME .
 bikeblitz.de CNAME .
 *.bikeblitz.de CNAME .
 bikefamily-gmbh.de CNAME .
@@ -14384,8 +14348,6 @@ bindado.de CNAME .
 *.bindado.de CNAME .
 bineflix.de CNAME .
 *.bineflix.de CNAME .
-bines-apfelkiste.de CNAME .
-*.bines-apfelkiste.de CNAME .
 bioamsee.de CNAME .
 *.bioamsee.de CNAME .
 biogaming.de CNAME .
@@ -14402,8 +14364,6 @@ birkenstocksandalen.de CNAME .
 *.birkenstocksandalen.de CNAME .
 bitcoineer.de CNAME .
 *.bitcoineer.de CNAME .
-bizyclist.de CNAME .
-*.bizyclist.de CNAME .
 bkb-solar.de CNAME .
 *.bkb-solar.de CNAME .
 bkk-bavaria.de CNAME .
@@ -18288,8 +18248,6 @@ zapatillasadi.es CNAME .
 *.zapatillasadi.es CNAME .
 adr-freight-ltd.eu CNAME .
 *.adr-freight-ltd.eu CNAME .
-anabo-roid.eu CNAME .
-*.anabo-roid.eu CNAME .
 apotheke-rezeptfrei.eu CNAME .
 *.apotheke-rezeptfrei.eu CNAME .
 apothekeoesterreich.eu CNAME .
@@ -18656,8 +18614,6 @@ bach24.net CNAME .
 *.bach24.net CNAME .
 bagomi-versand.net CNAME .
 *.bagomi-versand.net CNAME .
-bitcoin-trader.net CNAME .
-*.bitcoin-trader.net CNAME .
 blizzer7.net CNAME .
 *.blizzer7.net CNAME .
 blockandrock.net CNAME .
@@ -19778,20 +19734,12 @@ autostyles.store CNAME .
 *.autostyles.store CNAME .
 baar-gaming.store CNAME .
 *.baar-gaming.store CNAME .
-baby-apparel.store CNAME .
-*.baby-apparel.store CNAME .
-babyhealthmall.store CNAME .
-*.babyhealthmall.store CNAME .
 babyonlines.store CNAME .
 *.babyonlines.store CNAME .
 babytoyslimited.store CNAME .
 *.babytoyslimited.store CNAME .
 bakingappliancessale.store CNAME .
 *.bakingappliancessale.store CNAME .
-best-home.store CNAME .
-*.best-home.store CNAME .
-bestcollectibles.store CNAME .
-*.bestcollectibles.store CNAME .
 bestepills.store CNAME .
 *.bestepills.store CNAME .
 bestsalepettoys.store CNAME .
@@ -20354,8 +20302,6 @@ youthloft.uk CNAME .
 *.youthloft.uk CNAME .
 algopro.us CNAME .
 *.algopro.us CNAME .
-bestsalestore.us CNAME .
-*.bestsalestore.us CNAME .
 foreigntradequeen.us CNAME .
 *.foreigntradequeen.us CNAME .
 spravi.us CNAME .
@@ -20418,8 +20364,6 @@ allcart.xyz CNAME .
 *.allcart.xyz CNAME .
 amicfy.xyz CNAME .
 *.amicfy.xyz CNAME .
-amosclothing.xyz CNAME .
-*.amosclothing.xyz CNAME .
 amycorrea.xyz CNAME .
 *.amycorrea.xyz CNAME .
 bboda.xyz CNAME .

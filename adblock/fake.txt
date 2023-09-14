@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Sep 2023 10:12 UTC
-! Version: 2023.0914.1012.10
+! Last modified: 14 Sep 2023 22:17 UTC
+! Version: 2023.0914.2217.28
 ! Syntax: AdBlock
-! Number of entries: 10238
+! Number of entries: 10210
 !
 ||11trikots.com^
 ||12-suchen.de^
@@ -35,8 +35,6 @@
 ||24rabatt.shop^
 ||24things.de^
 ||eu.2bagsvalley.cn^
-||2rad-billig.de^
-||2rad-billiger.de^
 ||2rad-enik.com^
 ||2rad-kern.de^
 ||2rad-klein.de^
@@ -102,7 +100,6 @@
 ||accessory-series.com^
 ||acemoyusy.com^
 ||acessquad.club^
-||aceytw.com^
 ||acg-immo.at^
 ||achenseeinfo.at^
 ||achicwomen.com^
@@ -292,7 +289,6 @@
 ||allustrendy.com^
 ||almoes.com^
 ||alocar-gmbh.com^
-||alochizshop.com^
 ||aloyogaaustria.com^
 ||aloyogadeutschlande.com^
 ||aloyogasale.de^
@@ -356,13 +352,11 @@
 ||aminalahbabi.com^
 ||amnayavanit.shop^
 ||amo-lm.com^
-||amosclothing.xyz^
 ||ampersandonlines.com^
 ||amplelivingroom.com^
 ||amt-wankendorf.de^
 ||amycorrea.xyz^
 ||amznde.com^
-||anabo-roid.eu^
 ||anabolic-power24.com^
 ||anabolika24.biz^
 ||anabolika365.de^
@@ -672,9 +666,7 @@
 ||baaglbatohy.de^
 ||baar-gaming.store^
 ||babbien.com^
-||baby-apparel.store^
 ||babybesteckneu.de^
-||babyhealthmall.store^
 ||babykleidungde.de^
 ||babylachelt.de^
 ||babyonlines.store^
@@ -732,7 +724,6 @@
 ||bami-store.com^
 ||bape.at^
 ||bapegermany.com^
-||bapeoutfits.com^
 ||baradino.de^
 ||barbaravonfrisch.at^
 ||barbequesale.com^
@@ -783,7 +774,6 @@
 ||baumarktneu.de^
 ||baumarktverkauf.de^
 ||baumpflege-spoerl.de^
-||baustoff-renta.de^
 ||bauzeug.de^
 ||bawabaonline.com^
 ||baya-bikinis.de^
@@ -839,7 +829,6 @@
 ||begime.com^
 ||begra-photovoltaik.com^
 ||behawelt.de^
-||behfarmd.com^
 ||bekken.shop^
 ||bekleidungsaleshop.com^
 ||bekleidungsoutlet.com^
@@ -887,13 +876,11 @@
 ||besser-gesund.at^
 ||bessere-reifen.de^
 ||best-apotheke.online^
-||best-home.store^
 ||best-income-source.com^
 ||best-ticket.com^
 ||best24rxonline.shop^
 ||best4you.org^
 ||bestalpinism.com^
-||bestcollectibles.store^
 ||bestdrugstore247.com^
 ||bestduka.com^
 ||beste-brennholz.de^
@@ -937,7 +924,6 @@
 ||grstore.bestsaleonline2023.com^
 ||nlstore.bestsaleonline2023.com^
 ||bestsalepettoys.store^
-||bestsalestore.us^
 ||bestsaletennis.com^
 ||bestsellersbikes.com^
 ||bestsellersmusic.com^
@@ -947,8 +933,6 @@
 ||bestsellersvogue.com^
 ||bestslshop.com^
 ||besttoolkits.com^
-||bestybike.com^
-||betowinmall.com^
 ||betterinbed.shop^
 ||betterse.at^
 ||bettinakreativ.at^
@@ -965,7 +949,6 @@
 ||bhgartenbau.de^
 ||bhmbp.com^
 ||bhmconference.com^
-||bhrutush.com^
 ||bicycle-clearance.com^
 ||bicycle-exercise.com^
 ||bicycleaccessoriescheap.store^
@@ -986,12 +969,8 @@
 ||bigohao.top^
 ||bigostream.com^
 ||bigtosales.shop^
-||bike-hager.de^
 ||bike-hagers.de^
-||bike-hubo.de^
 ||bike-poc.com^
-||bike-radu.de^
-||bike-rufo.de^
 ||bike-shop-market.com^
 ||bikeblitz.de^
 ||bikeclothesoff.com^
@@ -1037,7 +1016,6 @@
 ||binancer.farm^
 ||bindado.de^
 ||bineflix.de^
-||bines-apfelkiste.de^
 ||bing-grondahl.com^
 ||binmomentline.site^
 ||bio-kammerjaeger.at^
@@ -1068,7 +1046,6 @@
 ||bitcodeprime.org^
 ||bitcoin-archon.com^
 ||bitcoin-revolution.org^
-||bitcoin-trader.net^
 ||bitcoin-up.io^
 ||bitcoin360.ai^
 ||bitcoin360ai.com^
@@ -1081,7 +1058,6 @@
 ||bitcoineer.tv^
 ||bitcoinlifestyle.io^
 ||bitcoinloophole.io^
-||bitcoinmethodofficial.com^
 ||bitcoinmotion.com^
 ||bitcoinmotion.io^
 ||bitcoinwebr.com^
@@ -1096,9 +1072,6 @@
 ||bivouac-new.com^
 ||bivouacoffer.com^
 ||bivouacsale.com^
-||bixfin.com^
-||bizyclist.de^
-||bjorkcoffee.com^
 ||bjornborgdiscount.com^
 ||bkb-solar.de^
 ||bkbodux.xyz^
@@ -1110,7 +1083,6 @@
 ||blanket-chic.com^
 ||blankets-sale.com^
 ||blanketsforanimals-sale.com^
-||blaqcosmetic.com^
 ||blastashop.com^
 ||blattholz.com^
 ||blaue-dragoner.de^
