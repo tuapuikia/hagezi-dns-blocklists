@@ -4724,3 +4724,9 @@ finchtechie.com
 ajaxgeo.cartrawler.com
 otageo.cartrawler.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1572
+webmasters.stackexchange.com
+
+# buy-and-sell
+tradera.com
+
