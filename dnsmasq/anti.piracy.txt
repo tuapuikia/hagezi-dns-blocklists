@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2023 10:11 UTC
-# Version: 2023.0912.1011.12
+# Last modified: 14 Sep 2023 09:57 UTC
+# Version: 2023.0914.0957.26
 # Syntax: DNSMasq
-# Number of entries: 7312
+# Number of entries: 7310
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -3614,7 +3614,6 @@ address=/lumendatabase.org/#
 address=/lumpysoft.com/#
 address=/lunchflix.com/#
 address=/lunchflix.org/#
-address=/tracker.lyretain.site/#
 address=/tracker.lztr.me/#
 address=/tp.m-team.cc/#
 address=/tracker.m-team.cc/#
@@ -5174,7 +5173,6 @@ address=/isk.richardsw.club/#
 address=/net.richardsw.club/#
 address=/gwp2-v19.rinet.ru/#
 address=/rintor.net/#
-address=/riper.am/#
 address=/riperam.org/#
 address=/ripple.is/#
 address=/ripple.stream/#
