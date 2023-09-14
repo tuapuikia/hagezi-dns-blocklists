@@ -4720,3 +4720,7 @@ duty-halt-i-253.site
 # https://github.com/hagezi/dns-blocklists/issues/1569
 finchtechie.com
 
+# Site layout cars.flypgs.com (booking)
+ajaxgeo.cartrawler.com
+otageo.cartrawler.com
+
