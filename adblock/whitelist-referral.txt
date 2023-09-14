@@ -325,3 +325,5 @@
 @@||links*.afterpay.com^
 @@||c.webengage.com^
 @@||ablink.email.etsy.com^
+@@||d.agkn.com^
+@@||network.bazaarvoice.com^

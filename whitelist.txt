@@ -4709,5 +4709,14 @@ elpais.es
 ratemyteachers.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1564
-createsend.com
+*.createsend.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1566
+i.pixl.li
+
+# https://github.com/hagezi/dns-blocklists/issues/1568
+duty-halt-i-253.site
+
+# https://github.com/hagezi/dns-blocklists/issues/1569
+finchtechie.com
 

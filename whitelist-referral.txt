@@ -38,6 +38,7 @@ guce.advertising.com
 tr-netsalesmedia-pl.affex.org
 affiliatefuture.com
 links*.afterpay.com
+d.agkn.com
 a1.adformnet.akadns.net
 track-eu.adformnet.akadns.net
 track.cj.akadns.net
@@ -116,6 +117,7 @@ aylink.co
 api.bam-x.com
 click.emcom.bankofamerica.com
 analytics.barnebys.sh
+network.bazaarvoice.com
 cname.beehiiv.com
 link.mail.beehiiv.com
 x.bestcheck.de

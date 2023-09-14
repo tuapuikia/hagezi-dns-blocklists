@@ -140,6 +140,7 @@
 (\.|^)customlinks\.appsflyer\.com$
 (\.|^)customtraffic\.impactradius\.com$
 (\.|^)c\.webengage\.com$
+(\.|^)d\.agkn\.com$
 (\.|^)dart\.l\.doubleclick\.net$
 (\.|^)disneyplus\.bn5x\.net$
 (\.|^)dpbolvw\.net$
@@ -216,6 +217,7 @@
 (\.|^)monitor\.clickcease\.com$
 (\.|^)mydealz\.digidip\.net$
 (\.|^)ndirect\.ppro\.de$
+(\.|^)network\.bazaarvoice\.com$
 (\.|^)newslink\.reuters\.com$
 (\.|^)ojrq\.net$
 (\.|^)onelink\.me$
