@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2023 10:03 UTC
-# Version: 2023.0912.1003.01
+# Last modified: 14 Sep 2023 21:56 UTC
+# Version: 2023.0914.2156.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2503
+# Number of entries: 2505
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -2470,6 +2470,7 @@
 *.2.dnscrypt-cert.browser.yandex.net
 *.lion.yazilimatolye.com
 *.ychen.cf
+*.yd6n63ptky.com
 *.yellowproxy.net
 *.ylink.info
 *.yogavpn.com
@@ -2507,6 +2508,7 @@
 *.zoogvpn.com
 *.zorrovpn.io
 *.zougloub.eu
+*.zpath.net
 *.zpn.im
 *.zproxy.de
 *.zscalertwo.net

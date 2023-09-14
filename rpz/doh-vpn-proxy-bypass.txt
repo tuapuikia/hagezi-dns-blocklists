@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694512980 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1694728560 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 12 Sep 2023 10:03 UTC
-; Version: 2023.0912.1003.01
+; Last modified: 14 Sep 2023 21:56 UTC
+; Version: 2023.0914.2156.38
 ; Syntax: RPZ
-; Number of entries: 5006
+; Number of entries: 5010
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2337,6 +2337,8 @@ xvbelink.com CNAME .
 *.xvbelink.com CNAME .
 lion.yazilimatolye.com CNAME .
 *.lion.yazilimatolye.com CNAME .
+yd6n63ptky.com CNAME .
+*.yd6n63ptky.com CNAME .
 yogavpn.com CNAME .
 *.yogavpn.com CNAME .
 youfreeproxytube.com CNAME .
@@ -4089,6 +4091,8 @@ youcanhide.net CNAME .
 *.youcanhide.net CNAME .
 zenvpn.net CNAME .
 *.zenvpn.net CNAME .
+zpath.net CNAME .
+*.zpath.net CNAME .
 zscalertwo.net CNAME .
 *.zscalertwo.net CNAME .
 dns.unerror.network CNAME .
