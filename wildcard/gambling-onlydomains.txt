@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Sep 2023 21:54 UTC
-# Version: 2023.0913.2154.57
+# Last modified: 14 Sep 2023 09:59 UTC
+# Version: 2023.0914.0959.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 168617
+# Number of entries: 168536
 #
 0-bet.com
 000000.com
@@ -5399,7 +5399,6 @@
 1081x.com
 1081yb.com
 1082.app
-1082411.com
 1082bets10.com
 1082ky.com
 1082t.com
@@ -8555,7 +8554,6 @@
 12344666.com
 12344999.com
 12345.bet
-12345.kaufen
 123456yule.com
 12346444.com
 123476.com
@@ -8807,7 +8805,6 @@
 1245ky.com
 1245t.com
 1245x.com
-1246428.com
 12468.org
 1246ky.com
 12477.pro
@@ -14247,7 +14244,6 @@ cdn2.12betso.com
 1783t.com
 1783x.com
 17840.pro
-1784604.com
 178486.com
 178499.com
 1784ky.com
@@ -16803,7 +16799,6 @@ cdn2.12betso.com
 1fastpay-casino.com
 1fn88.com
 1fonbet.com
-1frozenthrone1.com
 1fun.net
 1funplay.com
 1fwin.club
@@ -17792,7 +17787,6 @@ cdn2.12betso.com
 20059977.com
 2005ky.com
 2005ty.com
-2006028.com
 20066.biz
 20067189.com
 2006774.com
@@ -23996,7 +23990,6 @@ ee88-viet.227290wss.com
 2475t.com
 24765.site
 24767.org
-24769.cn
 2476ky.com
 247775.com
 2477ky.com
@@ -25692,7 +25685,6 @@ img.2538img.com
 2656n.com
 2656s.com
 2656t.com
-2657409.com
 265750.com
 2657h.com
 2657ky.com
@@ -25722,7 +25714,6 @@ img.2538img.com
 2661155.com
 26611v.com
 26612v.com
-26613.kaufen
 26615v.com
 26617v.com
 26619v.com
@@ -28024,7 +28015,6 @@ img.2538img.com
 290kaiyun.net
 290kaiyun.vip
 290kyty.com
-290sss.com
 290uu.wang
 290y.net
 290y.vip
@@ -29859,7 +29849,6 @@ img.2538img.com
 3108ky.com
 31096.org
 3109ky.com
-310ggg.com
 310k.net
 310k.vip
 310kaiyun.net
@@ -32798,7 +32787,6 @@ img.2538img.com
 33672v.com
 33673v.com
 336754.com
-33677.biz
 336776.com
 336776a.com
 336776b.com
@@ -41072,7 +41060,6 @@ img.2538img.com
 414wns.com
 41507.org
 4151010.com
-41511.biz
 4151155.com
 41518.org
 4152t.com
@@ -41135,7 +41122,6 @@ img.2538img.com
 41691d.com
 41691g.com
 416970.com
-41698.biz
 4169t.com
 417007.com
 4170707.com
@@ -41153,7 +41139,6 @@ img.2538img.com
 41751.org
 41751.space
 41752.space
-4175498.com
 4175720.com
 4175t.com
 4175x.com
@@ -43992,7 +43977,6 @@ img.2538img.com
 462h.com
 462yb.com
 4630t.com
-46313.kaufen
 4631t.com
 46322a.com
 4632t.com
@@ -44044,7 +44028,6 @@ img.2538img.com
 4646444.com
 46468166.com
 4646999.com
-4646mgm.com
 4646vn.com
 4646vns.com
 4647.app
@@ -44288,7 +44271,6 @@ img.2538img.com
 4672x.com
 4673473.com
 46736.biz
-46737.kaufen
 467390.com
 4673t.com
 4673x.com
@@ -44477,7 +44459,6 @@ img.2538img.com
 4717t.com
 4717x.com
 4718x.com
-4719611.com
 4719t.com
 4719x.com
 4720002.com
@@ -44999,7 +44980,6 @@ img.2538img.com
 48066.biz
 480750.com
 48080.wang
-4808144.com
 480819.com
 480836.com
 4809304.com
@@ -45143,21 +45123,14 @@ img.2538img.com
 48578.org
 4858a.com
 4858cc.com
-4858f.com
 4858ff.com
-4858g.com
-4858i.com
 4858ii.com
 4858j.com
-4858l.com
-4858mmm.com
-4858ooo.com
 4858r.com
 4858rrr.com
 4858s.com
 4858sss.com
 4858w.com
-4858z.com
 4859001.com
 4859002.com
 4859003.com
@@ -45243,7 +45216,6 @@ img.2538img.com
 4862317.com
 4862x.com
 4864t.com
-4865775.com
 4865dd.com
 486669.com
 486686.app
@@ -46827,7 +46799,6 @@ img.2538img.com
 51207.org
 51210.vip
 5121155.com
-51216.biz
 5121j.com
 5121x.com
 51222.biz
@@ -47087,7 +47058,6 @@ img.2538img.com
 51507.biz
 51507.vip
 5151.com
-51511.kaufen
 51511006.com
 5151155.com
 51512017.com
@@ -47559,7 +47529,6 @@ img.2538img.com
 5219321.com
 52197.net
 52197.vip
-5219773.com
 521w66.com
 521yz.org
 522002.com
@@ -47780,7 +47749,6 @@ img.2538img.com
 52523.wang
 52524118.com
 52526163.com
-5252mgm.com
 5252vn.com
 5252vns.com
 525352.com
@@ -49075,7 +49043,6 @@ img.2538img.com
 5471155.com
 5471t.com
 5472.org
-54747.kaufen
 5474t.com
 5474x.com
 54757.org
@@ -52563,7 +52530,6 @@ shanhe.57577.live
 5797t.com
 5797x.com
 57986.com
-5798709.com
 57988.com
 5798844.com
 5798t.com
@@ -52930,7 +52896,6 @@ shanhe.57577.live
 584447.com
 58448.vip
 58449.vip
-5844n.com
 5844v.com
 5844w.com
 5844x.com
@@ -56736,7 +56701,6 @@ shanhe.57577.live
 62700sc.com
 62700su.com
 6271155.com
-62713.kaufen
 6271j.com
 6271n.com
 627245.xyz
@@ -57029,7 +56993,6 @@ shanhe.57577.live
 631031.com
 63111.biz
 6311155.com
-6311951.com
 6311s.com
 6311v.com
 6311x.com
@@ -59312,7 +59275,6 @@ shanhe.57577.live
 66296v.com
 662973.com
 66297v.com
-6629808.com
 66298v.com
 6629966.com
 66299a.com
@@ -71536,7 +71498,6 @@ shanhe.57577.live
 7735w.com
 77369v.com
 7736h.com
-7736i.com
 7736ky.com
 7736l.com
 7736n.com
@@ -72795,7 +72756,6 @@ shanhe.57577.live
 7810yb.com
 78117.com
 78117.top
-7811888.com
 78119.vip
 78122.org
 7812288.com
@@ -77684,7 +77644,6 @@ freelive.7mvn.com
 83405.org
 8340555.com
 8340x.com
-8341112.com
 8341155.com
 8341190.com
 8341691.com
@@ -77818,16 +77777,6 @@ freelive.7mvn.com
 83649.org
 8364t.com
 836506.com
-836590x.com
-836591x.com
-836592x.com
-836593x.com
-836594x.com
-836595x.com
-836596x.com
-836597x.com
-836598x.com
-836599x.com
 83666.biz
 83667n.com
 83668.vip
@@ -79205,7 +79154,6 @@ freelive.7mvn.com
 8611u.com
 861245.com
 86127.vip
-8612716.com
 861276.com
 8612t.com
 8612x.com
@@ -79272,7 +79220,6 @@ freelive.7mvn.com
 8623n.com
 8623t.com
 8624798.com
-8625180.com
 862590.com
 8625999.com
 8625n.com
@@ -82112,6 +82059,7 @@ freelive.7mvn.com
 888jxf.net
 888k66.com
 888k8vn.com
+888loc.io
 888mb.vip
 888mobile.uk
 888n83.com
@@ -92699,7 +92647,6 @@ aablv.win
 aac888.com
 aahg7788.com
 aai365.com
-aaoexcmaplz.com
 aaqer.net
 aarr888.com
 aas12.org
@@ -93826,9 +93773,6 @@ amarketsaffiliates.com
 amazbo.com
 amazing.bet
 amazon3257.com
-amazon566.com
-amazon973.com
-amazon982.com
 amazongifts.ga
 ambbet999.live
 ambbetwallet.com
@@ -94163,7 +94107,6 @@ apkreplay88.com
 apksaya123.com
 aplaycasino.space
 aplaygames.com
-aplmweqtnba.com
 apmzfv.com
 apnkpn.xyz
 apollobet.com
@@ -104396,10 +104339,7 @@ buyu1819.net
 buyu1898.com
 buyu1998.com
 buyu9889.com
-buyulaie.site
-buyulair.site
 buyulaiw.fun
-buyulaiw.site
 buyzn.win
 buzbee.club
 buzbee86.com
@@ -105348,7 +105288,6 @@ bytscy.com
 byu61.vip
 byugt6670402.com
 byup3ouw5b53.com
-bywfgibcrsd.com
 bywki.com
 bz234567.com
 bz2way.com
@@ -106759,8 +106698,6 @@ cdrxb.com
 cdsbsbc.com
 cdsbsbc.net
 cdvzlmv.xyz
-cdwduatlqfs.com
-cdwonxyqchj.com
 cdyydp.com
 cdzxs.asia
 ce3542.com
@@ -106828,7 +106765,6 @@ cf68club.com
 cf68club.net
 cf68vn.com
 cfcrqc.com
-cffvphmsnod.com
 cfgyr361nn.fun
 cfgyr361nn.life
 cfgyr361nn.live
@@ -108841,7 +108777,6 @@ cze42.net
 czf66.com
 czjumai.com
 czk85.net
-czmaplqmoax.com
 czowg.xyz
 czu5p.com
 czwlzf.com
@@ -113239,6 +113174,7 @@ fb88v.com
 fb88viet.com
 fb88vip.com
 fb88vn.com
+fb88wow.com
 fb88xyz.com
 fb88you.com
 fb88zo.com
@@ -116636,7 +116572,6 @@ gfbx57skfn12hbd9f7ks.com
 gfcnh.com
 gfcsg.com
 gff23.com
-gfhgmroiinx.com
 gfjuyiuyfghnfghj.com
 gflgunqgnd.com
 gfr6p.com
@@ -119289,8 +119224,6 @@ hdbongda.com
 hddxcd2j.xyz
 hde8j.com
 hderv.com
-hdgbh1.com
-hdgbh3.com
 hdgbh8.com
 hdgrg.com
 hdkhdd.xyz
@@ -119380,7 +119313,6 @@ heji625.com
 heji628.com
 heji668.com
 heji68.vip
-heji788.com
 heji83.com
 heji86.com
 heji86.vip
@@ -122829,7 +122761,6 @@ idr68.com
 iedu2w75o5.com
 ielq9s.vip
 iemf.net
-iesgirbdyxw.com
 ietalxtiut.com
 iewksksss5f5frtg74c4cc4c.com
 ifeellukcy.com
@@ -132494,16 +132425,12 @@ ku6131.net
 vn.ku6133.net
 ku6136.net
 ku6143.net
-ku6150.net
 ku6151.net
 ku6152.com
 ku6152.net
 ku61522.net
 ku6153.net
-ku6160.net
 ku6162.net
-ku6170.net
-ku6180.net
 ku6182.net
 ku6289.com
 ku6468.com
@@ -132820,7 +132747,6 @@ ky1596.vip
 ky1597.vip
 ky1598.vip
 ky2563.com
-ky29.cn
 ky29.com
 ky3299.com
 ky3338.com
@@ -133508,10 +133434,8 @@ li8668.com
 li869.com
 li88.net
 li880.com
-li8989.com
 li899.com
 lian456gegr653.com
-liang0729.com
 liang365btyj434.com
 lianmeng.bet
 lianmengshixun.com
@@ -133942,7 +133866,6 @@ lode88.online
 lode88.vip
 lodeuytin.com
 lodevip.us
-lodevn789.net
 lodi291.bet
 lodiary.xyz
 lodibet.ph
@@ -135378,7 +135301,6 @@ maoyanmeiyu.com
 maoyanmeiyu3.com
 mapau.com
 mapbdql.xyz
-mapgxnhurg.com
 maqyj.com
 marantz.com
 marathonbet.by
@@ -139761,7 +139683,6 @@ ob7cb.mom
 ob7sn3ycunmb.com
 ob82b.mom
 ob89j.com
-obgamevip.com
 obgy1.xyz
 obk4b.mom
 obk5b.mom
@@ -146376,6 +146297,7 @@ rustypot.com
 ruthda.xyz
 rv5w9.com
 rv9er.com
+rvbet005.com
 rvcasino.com
 rve3.com
 rvip101.com
@@ -148391,7 +148313,6 @@ sl0tv-casino.com
 sl0tvcasino.co
 sl0tvcasinobest.com
 sl18588.com
-sl6618.com
 sl888.live
 sla19.com
 slacocasino.com
@@ -150007,7 +149928,6 @@ szh986.com
 szh99.app
 szhtsj.com
 szn30.vip
-sznb666.com
 szqvm.com
 sztaw.site
 szuperlotto.com
@@ -150817,6 +150737,7 @@ taigem79.win
 taigenvip.club
 taigenvip88.club
 taigenvip88.com
+taigenvipios.fun
 taigo88vn.com
 taihit.win
 taiiwin.club
@@ -163890,7 +163811,6 @@ xsfdcw.com
 xsir000.com
 xskt.vip
 xslotframe2.com
-xslothunterx.xyz
 xsltviet.com
 xsltviet.net
 xsm2643.com
@@ -168295,7 +168215,6 @@ zjhise.bid
 zjj479.com
 zjjjcly.com
 zjqz88.com
-zjumapxjws.com
 zk0299.net
 zk3402.com
 zkoos.vip
