@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2023 10:17 UTC
-# Version: 2023.0915.1017.00
+# Last modified: 15 Sep 2023 22:38 UTC
+# Version: 2023.0915.2238.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 9959
+# Number of entries: 9954
 #
 11trikots.com
 12-suchen.de
@@ -3127,7 +3127,6 @@ frenchpellets.com
 frequencywizard.com
 freshdepoot.com
 freshheavy.com
-frettchen-fun.de
 freundchen.at
 friedlichesende.com
 friescandy.com
@@ -3196,8 +3195,6 @@ fvkiwanis.org
 fx-algorandking.com
 g-welt.com
 ga-te.top
-gabor-schweiz.com
-gaboroutletosterreich.com
 gaborschweiz.com
 gachl.at
 gadebuscher-biker.de
@@ -4161,7 +4158,6 @@ immsolutions.click
 immunepharma.com
 impabmarket.com
 impellerde.com
-imperial-craft.com
 impkeys.com
 improfithub.com
 impruneta.de
@@ -4432,7 +4428,6 @@ crdbhqef.karismalashes.com
 karlkanide.shop
 karlsale.com
 karmavana.de
-karneval-zingst.de
 karpfenrutengeschaft.com
 karrimorschuhe.de
 kartenguthaben.com

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2023 10:17 UTC
-# Version: 2023.0915.1017.00
+# Last modified: 15 Sep 2023 22:38 UTC
+# Version: 2023.0915.2238.36
 # Syntax: DNSMasq
-# Number of entries: 9959
+# Number of entries: 9954
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -3127,7 +3127,6 @@ address=/frenchpellets.com/#
 address=/frequencywizard.com/#
 address=/freshdepoot.com/#
 address=/freshheavy.com/#
-address=/frettchen-fun.de/#
 address=/freundchen.at/#
 address=/friedlichesende.com/#
 address=/friescandy.com/#
@@ -3196,8 +3195,6 @@ address=/fvkiwanis.org/#
 address=/fx-algorandking.com/#
 address=/g-welt.com/#
 address=/ga-te.top/#
-address=/gabor-schweiz.com/#
-address=/gaboroutletosterreich.com/#
 address=/gaborschweiz.com/#
 address=/gachl.at/#
 address=/gadebuscher-biker.de/#
@@ -4161,7 +4158,6 @@ address=/immsolutions.click/#
 address=/immunepharma.com/#
 address=/impabmarket.com/#
 address=/impellerde.com/#
-address=/imperial-craft.com/#
 address=/impkeys.com/#
 address=/improfithub.com/#
 address=/impruneta.de/#
@@ -4432,7 +4428,6 @@ address=/crdbhqef.karismalashes.com/#
 address=/karlkanide.shop/#
 address=/karlsale.com/#
 address=/karmavana.de/#
-address=/karneval-zingst.de/#
 address=/karpfenrutengeschaft.com/#
 address=/karrimorschuhe.de/#
 address=/kartenguthaben.com/#
