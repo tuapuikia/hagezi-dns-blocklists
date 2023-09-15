@@ -5171,3 +5171,7 @@
 ! CNAME for various sites, e.g. www.jpost.com
 @@||ves.io^
 
+! RSS to email aggregator site
+@@|blogtrottr.com^
+@@|www.blogtrottr.com^
+
