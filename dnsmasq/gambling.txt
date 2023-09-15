@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Sep 2023 22:05 UTC
-# Version: 2023.0914.2205.10
+# Last modified: 15 Sep 2023 22:26 UTC
+# Version: 2023.0915.2226.12
 # Syntax: DNSMasq
-# Number of entries: 168533
+# Number of entries: 168550
 #
 address=/0-bet.com/#
 address=/000000.com/#
@@ -116749,7 +116749,6 @@ address=/ggbet-casino.net/#
 address=/ggbet-casino.org/#
 address=/ggbet-casino.pl/#
 address=/ggbet-de.com/#
-address=/ggbet-gry.pl/#
 address=/ggbet-kasyno.pl/#
 address=/ggbet-login.pl/#
 address=/ggbet-online.ca/#
@@ -117295,6 +117294,19 @@ address=/goldenstar-casino36.com/#
 address=/goldentigercasino.com/#
 address=/goldenvegas.be/#
 address=/goldfinch64.com/#
+address=/goldfishka182.com/#
+address=/goldfishka183.com/#
+address=/goldfishka184.com/#
+address=/goldfishka185.com/#
+address=/goldfishka186.com/#
+address=/goldfishka187.com/#
+address=/goldfishka188.com/#
+address=/goldfishka189.com/#
+address=/goldfishka190.com/#
+address=/goldfishka191.com/#
+address=/goldfishka192.com/#
+address=/goldfishka193.com/#
+address=/goldfishka194.com/#
 address=/goldmancasino.com/#
 address=/goldmannow.com/#
 address=/goldminecasino.com/#
@@ -133846,7 +133858,6 @@ address=/lobbyslot.biz/#
 address=/loc88.fun/#
 address=/loc89.fun/#
 address=/loc89.vip/#
-address=/localibitcoin.ru/#
 address=/localotto.com/#
 address=/lockcasino.com/#
 address=/lockdown168.co/#
@@ -134225,6 +134236,7 @@ address=/luckland.com/#
 address=/luckscasino.com/#
 address=/lucky-31.com/#
 address=/lucky-blackjack.org/#
+address=/lucky-jet-official.net/#
 address=/lucky10.life/#
 address=/lucky105.com/#
 address=/lucky11.life/#
@@ -134275,6 +134287,7 @@ address=/lucky777ph.com/#
 address=/lucky788.com/#
 address=/lucky789789.com/#
 address=/lucky799.com/#
+address=/lucky7even3.com/#
 address=/lucky8.com/#
 address=/lucky816.com/#
 address=/lucky823.com/#
@@ -134368,6 +134381,10 @@ address=/luckyjb6.com/#
 address=/luckyjb7.com/#
 address=/luckyjb8.com/#
 address=/luckyjb9.com/#
+address=/luckyjet.pro/#
+address=/luckyjet-2023.ru/#
+address=/luckyjet-signal.com/#
+address=/luckyjet-signals.com/#
 address=/luckyjeux.fr/#
 address=/luckylouis.com/#
 address=/luckyluke.com/#
