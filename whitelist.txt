@@ -4736,3 +4736,11 @@ tradera.com
 # RSS to email aggregator site
 blogtrottr.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1577
+img*.tapimg.net
+img*-tapimg-net-idvk*.qiniudns.com
+overseacdnweb.qiniu.com.w.kunlunno.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1578
+monero.how
+

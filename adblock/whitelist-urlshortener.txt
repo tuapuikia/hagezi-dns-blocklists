@@ -651,7 +651,6 @@
 @@||hideout.cc^
 @@||hill.cm^
 @@||histori.ca^
-@@||hit.kg^
 @@||hjkl.fr^
 @@||hnsl.mn^
 @@||homes.jp^
