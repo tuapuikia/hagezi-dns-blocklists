@@ -5168,3 +5168,6 @@
 @@|tradera.com^
 @@|www.tradera.com^
 
+! CNAME for various sites, e.g. www.jpost.com
+@@||ves.io^
+
