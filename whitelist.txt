@@ -4744,3 +4744,9 @@ overseacdnweb.qiniu.com.w.kunlunno.com
 # https://github.com/hagezi/dns-blocklists/issues/1578
 monero.how
 
+# https://github.com/hagezi/dns-blocklists/issues/1580
+incolumitas.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1579
+lowes.sjv.io
+

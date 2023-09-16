@@ -5184,3 +5184,10 @@
 @@|monero.how^
 @@|www.monero.how^
 
+! https://github.com/hagezi/dns-blocklists/issues/1580
+@@|incolumitas.com^
+@@|www.incolumitas.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1579
+@@|lowes.sjv.io^
+
