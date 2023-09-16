@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2023 11:52 UTC
-# Version: 2023.0915.1152.51
+# Last modified: 16 Sep 2023 00:18 UTC
+# Version: 2023.0916.0018.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 51940
+# Number of entries: 51912
 #
 0008d6ba2e.com
 000space.com
@@ -991,7 +991,7 @@ subpixel.4players.de
 epomads2.4shared.com
 4sqt6jq.de
 4stats.de
-4strokemedia.com
+adx.4strokemedia.com
 adstat.4u.pl
 stat.4u.pl
 oj.4wank.com
@@ -1775,6 +1775,7 @@ ac-bastion.ru
 ac96trk.com
 acacdn.com
 acacdn.xyz
+academic-information.com
 data-af9f3dfb33.academics.de
 analytics.academy.com
 insights.academy.com
@@ -5428,6 +5429,7 @@ aqua-adserver.com
 aquaplatform.com
 aquaticowl.com
 aquentlytujim.com
+aquiliapistrix.guru
 aqvwn18102h.com
 ar-x.site
 ar1n.xyz
@@ -19780,7 +19782,6 @@ faquirrelot.com
 farakav.com
 farasiverived.org
 farawayreel.com
-farbankthy.live
 fardelbungo.com
 farethief.com
 farmagegaudful.com
@@ -20036,11 +20037,9 @@ fp-it-acc.fengkongcloud.com
 fp-sa-it.fengkongcloud.com
 fp-sa-it-acc.fengkongcloud.com
 static.fengkongcloud.com
-fenglaila.com
 fengyukun03.cn
 fengyx.com
 lg.feoffortapetis.com
-fepseqdkfyfjc.com
 fer2oxheou4nd.com
 ferank.fr
 feratotogaz.com
@@ -20121,9 +20120,6 @@ fcone.fidelitycharitable.org
 fctms.fidelitycharitable.org
 oms.fido.ca
 smetrics.fieldandstreamshop.com
-analytics.cust275email.fieldnotesbrand.com
-analytics.cust475email.fieldnotesbrand.com
-analytics.cust975email.fieldnotesbrand.com
 fieldofbachus.com
 curated.fieldtest.cc
 fiendrhythm.com
@@ -20258,7 +20254,6 @@ smetrics.finishline.com
 finkyepbows.com
 ad.finn.no
 smetrics.finn.no
-finnackavys.cfd
 finnan2you.com
 finnan2you.org
 finnanregauge.com
@@ -20359,13 +20354,11 @@ fixedlowraid.com
 fixedlygrown.com
 fixespreoccupation.com
 fixgroupfactor.com
-fixtapedam.live
 fizazdokts.com
 fjijxch.com
 fjshxjs.cn
 fjtroip.cn
 fkauueeepla.top
-analytics.fkb.ch
 fkjhjnb.com
 fkktckb.com
 fkondate.com
@@ -20830,7 +20823,6 @@ fourmtagservices.com
 metrics.foursixty.com
 sdk.foursquare.com
 analytics.na1.fourth.com
-fourthatbud.live
 fourtimessmelly.com
 fout.jp
 foutyoxyaena.website
@@ -21949,7 +21941,6 @@ sdk.open.talk.getui.net
 talkv6.getui.com
 xfr-ss.getui.com
 getupwoleai.com
-getviously.com
 getwebdiscover.com
 getwil.com
 getwindowsactivator.info
@@ -22901,7 +22892,6 @@ greyersuppl.guru
 greyinstrument.com
 tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com
 greymuzzle.org
-analytics.greystar.com
 greystripe.com
 greysummergo.biz
 gridcash.net
@@ -23089,7 +23079,6 @@ hruk.gumasi.top
 gumbolersgthb.com
 gumgum.com
 gumlahdeprint.com
-gumlahlerot.com
 gummierhedera.life
 gumqkle.net
 yzcpqa.gumtree.com
@@ -23210,7 +23199,6 @@ hadeplatform.com
 hadeti.xyz
 hadronid.net
 hadsimz.com
-haeggnet.live
 haek.net
 hafder.com
 haffnetworkmm.com
@@ -23230,7 +23218,6 @@ secure.haig7anax.com
 haihaime.net
 hailofficemeasure.com
 app.hailstate.com
-t.hailstate.com
 hailstonefatherinlawsuggestions.com
 hailstonenerve.com
 hainoruz.com
@@ -24007,7 +23994,6 @@ hitfuck.icu
 hitgraph.jp
 metrics.hitman.io
 hitmeter.ru
-hitobitex.com
 hitrackthat.com
 hits.sh
 hits4pay.com
@@ -24085,6 +24071,7 @@ hnwkfmm.com
 hnxxt.net
 ho47no3iry.de
 hoa44trk.com
+hoabinoo.net
 hoanoola.net
 hoardglitterjeanne.com
 hoaxbasesalad.com
@@ -24109,7 +24096,6 @@ hoiea.xyz
 hoisquit.buzz
 hoka-us.com
 hokaoneone-in.com
-hokaonlineindia.com
 app.hokiesports.com
 t.hokiesports.com
 analytics.hokify.com
@@ -24612,7 +24598,6 @@ hwhefj.xyz
 aa.hwigroup.com
 ab.hwigroup.com
 hwiieod.com
-hwivedn.icu
 hwnod.xyz
 hwpnocpctu.com
 hwqloan.com
@@ -25194,7 +25179,6 @@ imprdom.com
 impregnablehunt.com
 impresionesweb.com
 impresivedate.com
-impreslvedate.com
 impressexaltsculptor.com
 impression.link
 impressionmedia.cz
@@ -25236,7 +25220,6 @@ inaccuratetreasure.com
 inadequateinadmissibleoblige.com
 inadmissibleinsensitive.com
 inaftracker.com
-inagtwo.live
 inaltariaon.com
 inancukan.xyz
 inanitystorken.com
@@ -25669,6 +25652,7 @@ insumosesmar.com
 insurads.com
 insurancehealth.info
 intarget.ru
+intcircue.digital
 integr8.digital
 integralads.com
 integralfashionable.com
@@ -26444,7 +26428,6 @@ api.iterable.com
 js.iterable.com
 platform.iteratehq.com
 itespurrom.com
-rabc1.iteye.com
 rabc2.iteye.com
 itgear.jp
 ithergrouter.website
@@ -26710,7 +26693,6 @@ jeannvalmvvzv.top
 jeans-store.cz
 jeansalterne.top
 jeckear.com
-jeclittrecheckrep.info
 jecromaha.info
 ads.jeded.com
 jedotsad.xyz
@@ -26891,7 +26873,6 @@ jmooreassoc.com
 jmpmedia.club
 jmpnrh.xyz
 jmqidcg.com
-jmqxise.in
 jmrnews.pro
 jmspwbp.com
 analytics.jnjpediatrics.com
@@ -27029,7 +27010,6 @@ jriparzpia.com
 jrkhnqs.com
 jrklavzamkby.top
 jrltdiu.cn
-jrmrijv.icu
 jrpkizae.com
 jrrryblqkarqv.top
 jrs2igoimq.ru
@@ -27257,7 +27237,6 @@ analytics.kaiostech.com
 kairosplanet.com
 smetrics.kaiserpermanente.org
 kaiservers.com
-kaishepe.xyz
 kaiu-marketing.com
 kaiun-com.com
 kaiun-park.jp
@@ -28175,7 +28154,6 @@ laink.xyz
 lajhfyqusf.com
 preferences.lakersgaming.com
 smetrics.lakeshorelearning.com
-lakeside-fishandchips.com
 lakewoodmediagroup.net
 lalapush.com
 lalocandadelteatro.it
@@ -28686,7 +28664,6 @@ lhiefl.com
 lhinsights.com
 api.lhkmedia.in
 lhmos.com
-lhotajl.icu
 lhsjtcl.com
 lhydyta.com
 lhyklwh.com
@@ -28801,7 +28778,6 @@ liitwrz.icu
 analytics.liiv.solutions
 liiveloseguroresgate.com
 lijit.com
-likdie.com
 button.like.co
 likeahair.com
 likebtn.com
@@ -28810,8 +28786,6 @@ likechat33call.net
 likedpatpresent.com
 likedstring.com
 likely-interaction.com
-likenewvids.mom
-likenewvids.online
 likeportal.com
 likevertising.com
 likidn.com
@@ -29144,7 +29118,6 @@ llanalytics.com
 llantasdelpacifico.cl
 stats.llaun.ch
 llevenmanis.xyz
-llink.site
 appnext.hs.llnwd.net
 synthes.vo.llnwd.net
 analytics.data.lloydsbankinggroup.com
@@ -29400,12 +29373,10 @@ displayad.lotteon.com
 lotteryadda.com
 lotto109.com
 lottomegawin.com
-lotusgriffon.com
 louchaug.com
 louchees.net
 loudlunch.com
 loudsjack.com
-loufile.ru
 smetrics.louisianahealthconnect.com
 analytics.louispoulsen.com
 loukoost.net
@@ -29670,7 +29641,6 @@ lyzvbjmeybyqj.top
 lz-pub-ads.com
 lzcxzes.com
 lzeld.com
-lzmvcrp.icu
 lzpxrh4crc.xyz
 lzrikate.com
 lzvkmwyavjeeb.top
@@ -29896,7 +29866,6 @@ psg.make9-salon.com
 makeding.com
 scripts.makeinfluence.com
 analytics.makeitmeme.com
-makemehappy.mom
 metrics.makemytrip.com
 makenoads.com
 usejj.makepolo.cn
@@ -34994,6 +34963,7 @@ otona-nona.biz
 otonanojikan13579.net
 otonanona.jp
 otonatime.net
+otorwardsoffhdgat.com
 otoshiana.com
 otqxvqzdgl.com
 otramano.org
@@ -42064,6 +42034,7 @@ ao.skaties.lv
 skcrtxr.com
 skeeping.com
 skeetads.com
+skeletallake.com
 skeletonemail.com
 sketbhang.guru
 analytics.sketchup.com
@@ -48468,6 +48439,7 @@ virtuagirl.com
 virtuagirlhd.com
 virtualedufairnepal.com
 virtuallaughing.com
+virtuallythanksgivinganchovy.com
 virtualpushplatform.com
 virtualvincent.com
 track.virtuemap.com
