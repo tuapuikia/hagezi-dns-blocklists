@@ -7,8 +7,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Sep 2023 21:58 UTC
-# Version: 2023.0913.2158.06
+# Last modified: 16 Sep 2023 10:20 UTC
+# Version: 2023.0916.1020.35
 # Syntax: RegEx
 #
 \.asia$
@@ -29,6 +29,7 @@
 \.mom$
 \.name$
 \.review$
+\.rodeo$
 \.sbs$
 \.skin$
 \.tokyo$
