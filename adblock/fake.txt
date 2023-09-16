@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Sep 2023 22:38 UTC
-! Version: 2023.0915.2238.36
+! Last modified: 16 Sep 2023 10:29 UTC
+! Version: 2023.0916.1029.52
 ! Syntax: AdBlock
-! Number of entries: 9954
+! Number of entries: 10003
 !
 ||11trikots.com^
 ||12-suchen.de^
@@ -482,6 +482,7 @@
 ||aranayan.com^
 ||arbeitskleidung-shop.net^
 ||arbeitsschutzexperts.com^
+||arbreth.com^
 ||arcaktuell.de^
 ||architectes-fr.com^
 ||architectlyy.site^
@@ -808,6 +809,7 @@
 ||beddingbetter.com^
 ||beddingquality.com^
 ||bedeconomical.com^
+||bedrocksandalsdeutschland.com^
 ||bedroom-haven.com^
 ||bedroom-hotsale.com^
 ||bedroom-shop.com^
@@ -852,6 +854,7 @@
 ||berlin-producthaus.de^
 ||berlinbeardeal.de^
 ||berliner-laden.de^
+||berlinerhome.de^
 ||berlinerwerke.de^
 ||berlinmedz.com^
 ||berlinosa.de^
@@ -1030,6 +1033,7 @@
 ||birkenstocks-greece.com^
 ||birkenstocksandalen.de^
 ||birkenstocksgreece.com^
+||bisgaardoutlets.com^
 ||bitaimethod.com^
 ||bitalphaai.io^
 ||bitalphaaiofficial.com^
@@ -1178,6 +1182,7 @@
 ||brabantiastore.com^
 ||bradfordcutlery.com^
 ||bragreservecooperation.com^
+||bralettesstore.com^
 ||brand-and-event.at^
 ||brandcosplay.com^
 ||brandcutlery.com^
@@ -1296,6 +1301,7 @@
 ||buttons-shop.de^
 ||buushop.com^
 ||buxtownbeacher.de^
+||buy4sale8.quest^
 ||buyballsportproduct.com^
 ||buybestmeds.com^
 ||buycapapparel.com^
@@ -1345,6 +1351,7 @@
 ||cairnsport.de^
 ||calcaterrachallenge.com^
 ||calcularix.de^
+||calderonbusiness.com^
 ||caledonia-ev.de^
 ||calishop.de^
 ||callitspringshoe.com^
@@ -1440,6 +1447,7 @@
 ||cccnats.com^
 ||cci-immobilien.de^
 ||ccleboulou.com^
+||cdcauldron.com^
 ||cddej.fr^
 ||cdo-forum-germany.de^
 ||ceasaro.com^
@@ -1640,6 +1648,7 @@
 ||cloud-mining.at^
 ||cloudflix.de^
 ||cloudrunningsale.de^
+||cloudrushschuhe.net^
 ||cloudschuhesale.de^
 ||cloudsiv.com^
 ||kua.clubestyle.com^
@@ -1897,6 +1906,7 @@
 ||dannerdeutschland.de^
 ||danneronlineshop.at^
 ||dannerschuhe.at^
+||dannersdeutschland.com^
 ||dapate.de^
 ||daplay.de^
 ||dar-germany.de^
@@ -1932,6 +1942,7 @@
 ||roborockshop.de.com^
 ||schuhejordan.de.com^
 ||superschuhenwelt.de.com^
+||de-finanz.com^
 ||de-generatorhouse.de^
 ||modellbahn.de-imex.de^
 ||modellbahn-versandhaus.de-imex.de^
@@ -2191,6 +2202,7 @@
 ||donovan.store^
 ||dopasowani.at^
 ||dopesnowosterreich.com^
+||dopesnowshoposterreich.com^
 ||dorat.de^
 ||doriancolin.com^
 ||doris-bauer.at^
@@ -2661,6 +2673,7 @@
 ||eventaquatics.com^
 ||eventplanung-ulm.de^
 ||events52.de^
+||eventsmeter.com^
 ||everbike24.de^
 ||everflix.de^
 ||evermily.com^
@@ -3109,6 +3122,7 @@
 ||frau-grau.de^
 ||fraubrit-shoppt.de^
 ||frcomposants.com^
+||fredperryoutletosterreich.com^
 ||free-maket.com^
 ||freeabikes.com^
 ||freeacorbetts.com^
@@ -3204,6 +3218,7 @@
 ||galagate.co^
 ||galandu.de^
 ||galeriasale.de^
+||galeriasale.shop^
 ||galerieoswald.de^
 ||galleria-versand.de^
 ||galleyonline.com^
@@ -3428,6 +3443,7 @@
 ||gmapros.co^
 ||gmhd-ua.com^
 ||gnfse.shop^
+||gnstigemedikamenteonlinekaufen.com^
 ||gobuybest.de^
 ||gocosmeticsurgery.com^
 ||goetzwache.de^
@@ -3958,6 +3974,7 @@
 ||homepetd.com^
 ||homepillswebstore.com^
 ||homeprotool.com^
+||homes-page.com^
 ||homesdecorsale.com^
 ||homesweethome.de^
 ||hometoolhub.com^
@@ -4024,6 +4041,7 @@
 ||householdshopus.com^
 ||houseinviting.com^
 ||houseitemtop.com^
+||houseofcbdeutschland.com^
 ||housepicsct.com^
 ||housewarede.de^
 ||housewareoffer.com^
@@ -4068,6 +4086,7 @@
 ||hunter-travel.com^
 ||huntergermany.de^
 ||huntergummistiefeloutlet.at^
+||huntergummistiefeloutlets.de^
 ||huntergummistiefelsale.com^
 ||huntergummistiefelsale.de^
 ||hunterosterreich.at^
@@ -4549,6 +4568,7 @@
 ||kitchen-series.com^
 ||kitchenaidhome.com^
 ||kitchenbuffet-shop.com^
+||kitchenchef.club^
 ||kitchencuisinart.com^
 ||kitchenmultiple.com^
 ||kitchensale-shop.com^
@@ -4661,6 +4681,7 @@
 ||krayadravyad.shop^
 ||kreation-und-design.de^
 ||kreativtravel.de^
+||kreditgrun.com^
 ||kreisfeuerwehrverband-wittmund.de^
 ||kreisverbandleer.de^
 ||krema-solar.de^
@@ -4681,6 +4702,7 @@
 ||kuchegeschaft.de^
 ||kuchukov-house.com^
 ||kue-arbeit.at^
+||kuechen-point24.com^
 ||kuechenherzen.de^
 ||kugelbahnshop.at^
 ||kuhlecke.de^
@@ -4794,6 +4816,7 @@
 ||latestperfume.com^
 ||latifamorgantyorkies.com^
 ||laubfall.de^
+||laufrad-outlet24.de^
 ||laufschule-janson.de^
 ||lautsprecherkko.de^
 ||lavitaroquetas.com^
@@ -4862,6 +4885,7 @@
 ||liberiapage.com^
 ||lichthaeusl.de^
 ||lichtraumenergetik.at^
+||lidleurope.com^
 ||lieb-schafft.de^
 ||liebefotosocken.com^
 ||liebem.de^
@@ -4878,6 +4902,7 @@
 ||lifestylebicycle.com^
 ||lifestyleshoe.com^
 ||liformedeutschland.com^
+||liformedeutschlands.com^
 ||lightfamous.com^
 ||lightflix.de^
 ||lightingarroyo.com^
@@ -5125,6 +5150,7 @@
 ||marcfisherlady.com^
 ||marcjacobs.life^
 ||marcjacobsdeutschland.com^
+||marcjacobsosterreich.at^
 ||marcosbrito.com^
 ||margareteworm.de^
 ||margittaweiss.de^
@@ -5249,7 +5275,6 @@
 ||medimax-service.de^
 ||medimax-servicede.de^
 ||medimaxkontakt.de^
-||medimaxservice.de^
 ||medimaxstore.de^
 ||medirezept.com^
 ||medirezept.net^
@@ -5284,6 +5309,7 @@
 ||mein-solar24.com^
 ||mein-wegbegleiter.de^
 ||meindlsales.com^
+||meindlschuhe.at^
 ||meine-heizstation.com^
 ||meine-neue-brille.de^
 ||meine-strandfigur.com^
@@ -5373,7 +5399,6 @@
 ||millyhomepool.com^
 ||miloujewelrys.com^
 ||miltonas.com^
-||milzy.de^
 ||mimiplay.de^
 ||mimty.de^
 ||mindaro.de^
@@ -5537,6 +5562,7 @@
 ||mpgymwear.com^
 ||mpscamph.com^
 ||mrair.xyz^
+||mrcainte.com^
 ||mrdecooo.de^
 ||mrerath.de^
 ||mrnerd.de^
@@ -5574,7 +5600,6 @@
 ||musicalnstrumentsale.com^
 ||musichotsales.com^
 ||musicusstore.com^
-||musiknachhilfe.at^
 ||muskelkatze-berlin.de^
 ||mustafaelnimr.at^
 ||musthavehunting.com^
@@ -5582,6 +5607,7 @@
 ||muzam.de^
 ||mvfurs.com^
 ||mvpassistant.com^
+||mvpwelpen.de^
 ||mvxhdy.club^
 ||my-family.bike^
 ||my-pills.biz^
@@ -5814,6 +5840,7 @@
 ||nicoll.at^
 ||nideckernitro.com^
 ||niephaus-elektro.com^
+||nikedeutschlands.com^
 ||nikefreernoutlet.com^
 ||nikeosterreichshop.com^
 ||nikesale-us.vip^
@@ -6035,6 +6062,7 @@
 ||okfitness.at^
 ||oko-heizung.com^
 ||okomia.com^
+||okrb.su^
 ||oktando.de^
 ||olahagencyh.com^
 ||olakork.com^
@@ -6206,6 +6234,7 @@
 ||orrebol.com^
 ||ortlieboztrail.com^
 ||ortliebpack.com^
+||ortovoxdeutschland.com^
 ||ortovoxonlineout.com^
 ||ortovoxosterreich.com^
 ||ortovoxoutdooor.com^
@@ -6241,10 +6270,12 @@
 ||outdoorclothinggeardiscout.com^
 ||outdoorelektronik.com^
 ||outdooressentialsshop.com^
+||outdooreu.club^
 ||outdooreus.com^
 ||outdoorexciting.com^
 ||outdoorfavorite.com^
 ||outdoorhotthings.com^
+||outdoorit.club^
 ||outdoorit.vip^
 ||outdooritemtrade.com^
 ||outdoorloungefurnitures.com^
@@ -6293,6 +6324,7 @@
 ||outletlunab.com^
 ||outletmilitarymodel.com^
 ||outletmilton.com^
+||outletnewhome.com^
 ||outletnewin.com^
 ||outletnovelty.com^
 ||outletpetus.com^
@@ -6303,6 +6335,7 @@
 ||cheap-sale.outletsale2022.ru^
 ||outletsbaby.com^
 ||outletselected.com^
+||outletsloggi.com^
 ||outletstoic.com^
 ||outletuggoutletuk.com^
 ||outletunit.com^
@@ -6349,11 +6382,11 @@
 ||palatina-vocalis.de^
 ||palima-maschinenhandel.com^
 ||palima-maschinenhandel.de^
-||palladiumosterreich.at^
 ||palladiumwien.com^
 ||pallet-us.com^
 ||pamatra.de^
 ||pamminger-reisen.de^
+||panamajackdeutschland.com^
 ||panamajackschuhe.at^
 ||panamajackschweiz.com^
 ||panamajackwien.at^
@@ -6409,6 +6442,7 @@
 ||paxplay.de^
 ||payback-masters.com^
 ||paybestpet-shop.com^
+||payprgold.live^
 ||pbglab.it^
 ||pc-akku.at^
 ||pc-bubble.de^
@@ -6458,6 +6492,7 @@
 ||petras-nevas.de^
 ||petrelevantstore.com^
 ||petsuppliesalewholesale.store^
+||petsupply.life^
 ||yojqb.pettisrumseycpa.com^
 ||pf0.cc^
 ||pfarrei-herz-mariae-igb.de^
@@ -6601,6 +6636,7 @@
 ||poiradar.at^
 ||pokestores.com^
 ||polenboeller-deutschland.com^
+||polene-deutschland.com^
 ||polene-osterreich.com^
 ||polkatholz.com^
 ||pollogiething.com^
@@ -6749,6 +6785,7 @@
 ||proofficeware.com^
 ||prooutside.com^
 ||property-24.com^
+||property-era.com^
 ||prorcland.com^
 ||proseccotrex.de^
 ||de.prosoftwares.fr^
@@ -7116,6 +7153,7 @@
 ||retaileropenair.com^
 ||retailswimsuit.com^
 ||retour-lager.de^
+||retour24.com^
 ||retrocyclingtops.com^
 ||retromencloth.com^
 ||retuschieren.at^
@@ -7230,7 +7268,6 @@
 ||roomflix.de^
 ||roomster.top^
 ||rootsandwings.at^
-||ropalt.de^
 ||ropdor.shop^
 ||ropepflege.de^
 ||rosch-maschinenhandel.com^
@@ -7251,6 +7288,7 @@
 ||lps.royalle-network.com^
 ||royalrobpascher.de^
 ||rpakpurna.com^
+||rreplace.com^
 ||rromaakt.de^
 ||rs2-finance.com^
 ||rsahansuwa.shop^
@@ -7394,6 +7432,7 @@
 ||saletoolopt.com^
 ||saletoolsonline.com^
 ||salewa-deutschland.com^
+||salewabootsnz.com^
 ||salewarabatt.de^
 ||salewardrobeshop.com^
 ||salewaschweiz.com^
@@ -7893,6 +7932,7 @@
 ||sneakernews79.top^
 ||sneakers-center.com^
 ||sneakersforu.com^
+||sneakershopswien.com^
 ||sneakerspalette-de.com^
 ||sneakerz2020.com^
 ||sneakwearlab.com^
@@ -8079,6 +8119,7 @@
 ||srrcops.org^
 ||ssceuns.shop^
 ||ssense.vip^
+||ssepmona.com^
 ||sskkl.shop^
 ||ssobkhabar.top^
 ||ssrlogistics.com^
@@ -8121,6 +8162,7 @@
 ||steroidhaus.net^
 ||steroidspharmastore.com^
 ||sterreich.at^
+||stetsonosterreich.com^
 ||steuerfrei-shoppen.com^
 ||stevemaddenwien.at^
 ||stevenjenks.com^
@@ -8546,6 +8588,7 @@
 ||tetherc.com^
 ||teva-berlin.de^
 ||teva-osterreich.at^
+||teva-osterreich.com^
 ||tevaaustria.com^
 ||tevaberlin.de^
 ||tevasandalen.at^
@@ -8683,6 +8726,7 @@
 ||thielebuch.de^
 ||thierseifer.de^
 ||thinketic.top^
+||thmbrennholz.at^
 ||thoomilo.de^
 ||thor-financial-apps.space^
 ||thorogooddeutschland.com^
@@ -8746,6 +8790,7 @@
 ||tobiflix.de^
 ||tobiwag.de^
 ||toddlerwalker.store^
+||todo-para-camping-caravans.es^
 ||todt-gartenhandel.com^
 ||toertchen.at^
 ||togetherrxacces.com^
@@ -9511,6 +9556,7 @@
 ||vogueuspro.com^
 ||vogueusshoes.com^
 ||vogueussupplier.com^
+||volcomsale.shop^
 ||volina.de^
 ||volini.de^
 ||volk-reifen.com^
@@ -9734,6 +9780,7 @@
 ||wirtshaus-schoeneck.at^
 ||wisatareligi.com^
 ||wiselux.co^
+||wisevests.com^
 ||wittenberger-hof.de^
 ||reiseweltat6.wixsite.com^
 ||wj-tag.de^
@@ -9850,6 +9897,7 @@
 ||yellout.at^
 ||yellowpost.de^
 ||yellowsharkmedia.com^
+||ygatha.com^
 ||yivette.com^
 ||yndrm.bio^
 ||yogaathleta.de^
@@ -9882,6 +9930,7 @@
 ||zapom.de^
 ||zappom.com^
 ||zarana.de^
+||zaraosterreich.at^
 ||zartefrau.de^
 ||zasamo.com^
 ||zasnek.com^
