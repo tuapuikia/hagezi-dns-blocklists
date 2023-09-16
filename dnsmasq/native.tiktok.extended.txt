@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Sep 2023 10:23 UTC
-# Version: 2023.0912.1023.21
+# Last modified: 16 Sep 2023 22:37 UTC
+# Version: 2023.0916.2237.25
 # Syntax: DNSMasq
-# Number of entries: 384
+# Number of entries: 383
 #
 address=/cdnlog-va-useast2a.byteoversea.com/#
 address=/docs-frontier-sg.byteoversea.com/#
@@ -353,7 +353,6 @@ address=/rtlog58-normal-alisg.tiktokv.com/#
 address=/rtlog58-normal-useast1a.tiktokv.com/#
 address=/rtlog58-normal-useast2a.tiktokv.com/#
 address=/rtlog58-normal-ycru.tiktokv.com/#
-address=/blog.us.tiktokv.com/#
 address=/frontier.us.tiktokv.com/#
 address=/frontier-ttp2.us.tiktokv.com/#
 address=/gecko16-normal-useast8.us.tiktokv.com/#
