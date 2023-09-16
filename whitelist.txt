@@ -4750,3 +4750,6 @@ incolumitas.com
 # https://github.com/hagezi/dns-blocklists/issues/1579
 lowes.sjv.io
 
+# https://github.com/hagezi/dns-blocklists/issues/1582
+uzone.id
+
