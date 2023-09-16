@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694860140 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1694903940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Sep 2023 10:29 UTC
-; Version: 2023.0916.1029.52
+; Last modified: 16 Sep 2023 22:39 UTC
+; Version: 2023.0916.2239.28
 ; Syntax: RPZ
-; Number of entries: 20006
+; Number of entries: 19984
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1318,8 +1318,6 @@ telewision.at CNAME .
 *.telewision.at CNAME .
 teras.at CNAME .
 *.teras.at CNAME .
-teva-osterreich.at CNAME .
-*.teva-osterreich.at CNAME .
 tevasandalen.at CNAME .
 *.tevasandalen.at CNAME .
 teveoosterreich.at CNAME .
@@ -1406,8 +1404,6 @@ viennagroup.at CNAME .
 *.viennagroup.at CNAME .
 vionicosterreich.at CNAME .
 *.vionicosterreich.at CNAME .
-vitalgesund.at CNAME .
-*.vitalgesund.at CNAME .
 vitalprojekte.at CNAME .
 *.vitalprojekte.at CNAME .
 vivobarefootosterreich.at CNAME .
@@ -10478,8 +10474,6 @@ saturn-markt.com CNAME .
 *.saturn-markt.com CNAME .
 savas-reifenhandel.com CNAME .
 *.savas-reifenhandel.com CNAME .
-scarpaoutletportugal.com CNAME .
-*.scarpaoutletportugal.com CNAME .
 schalen-shop.com CNAME .
 *.schalen-shop.com CNAME .
 schefferholzpellets.com CNAME .
@@ -10538,8 +10532,6 @@ schweizch.com CNAME .
 *.schweizch.com CNAME .
 schweizeruhrenbillig.com CNAME .
 *.schweizeruhrenbillig.com CNAME .
-sci-brennholz.com CNAME .
-*.sci-brennholz.com CNAME .
 scientificentre.com CNAME .
 *.scientificentre.com CNAME .
 sclothesbrand.com CNAME .
@@ -11828,8 +11820,6 @@ tennistechnical.com CNAME .
 *.tennistechnical.com CNAME .
 terange.com CNAME .
 *.terange.com CNAME .
-termink.com CNAME .
-*.termink.com CNAME .
 tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
@@ -12176,8 +12166,6 @@ toolbaypro.com CNAME .
 *.toolbaypro.com CNAME .
 toolbrandshop.com CNAME .
 *.toolbrandshop.com CNAME .
-tooldraper.com CNAME .
-*.tooldraper.com CNAME .
 tooleasepro.com CNAME .
 *.tooleasepro.com CNAME .
 toolefficient.com CNAME .
@@ -17194,8 +17182,6 @@ stehle-fritz.de CNAME .
 *.stehle-fritz.de CNAME .
 steinmetz-hahn.de CNAME .
 *.steinmetz-hahn.de CNAME .
-stenado.de CNAME .
-*.stenado.de CNAME .
 stephanie-gustai.de CNAME .
 *.stephanie-gustai.de CNAME .
 stereoswitch.de CNAME .
@@ -17264,8 +17250,6 @@ supraschuheonlineshop.de CNAME .
 *.supraschuheonlineshop.de CNAME .
 surfoceanearth.de CNAME .
 *.surfoceanearth.de CNAME .
-sv-blaschke.de CNAME .
-*.sv-blaschke.de CNAME .
 sven-kehmeier.de CNAME .
 *.sven-kehmeier.de CNAME .
 svgbarbis.de CNAME .
@@ -17430,8 +17414,6 @@ toastgrill.de CNAME .
 *.toastgrill.de CNAME .
 tobiflix.de CNAME .
 *.tobiflix.de CNAME .
-tobiwag.de CNAME .
-*.tobiwag.de CNAME .
 tomek-reifen.de CNAME .
 *.tomek-reifen.de CNAME .
 tomundeddi.de CNAME .
@@ -18524,8 +18506,6 @@ toko999.net CNAME .
 *.toko999.net CNAME .
 top-apotheke.net CNAME .
 *.top-apotheke.net CNAME .
-traumland24.net CNAME .
-*.traumland24.net CNAME .
 trendy-gadgets.net CNAME .
 *.trendy-gadgets.net CNAME .
 tripodproductions.net CNAME .
@@ -19240,8 +19220,6 @@ skyoivest.shop CNAME .
 *.skyoivest.shop CNAME .
 sohaus.shop CNAME .
 *.sohaus.shop CNAME .
-sooloo.shop CNAME .
-*.sooloo.shop CNAME .
 spenpek.shop CNAME .
 *.spenpek.shop CNAME .
 spielefritz.shop CNAME .

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2023 10:29 UTC
-# Version: 2023.0916.1029.52
+# Last modified: 16 Sep 2023 22:39 UTC
+# Version: 2023.0916.2239.28
 # Syntax: DNSMasq
-# Number of entries: 10003
+# Number of entries: 9992
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -7507,7 +7507,6 @@ address=/sauconylaufschuhe.at/#
 address=/sauconyschuhe.de/#
 address=/savas-reifenhandel.com/#
 address=/saycom.net/#
-address=/scarpaoutletportugal.com/#
 address=/scarpaschuheoutlet.at/#
 address=/scarpaschuhesale.at/#
 address=/scentuelle.de/#
@@ -7594,7 +7593,6 @@ address=/schwanhaus.de/#
 address=/schweden-hus.at/#
 address=/schweizch.com/#
 address=/schweizeruhrenbillig.com/#
-address=/sci-brennholz.com/#
 address=/scientificentre.com/#
 address=/sclothesbrand.com/#
 address=/scooga.at/#
@@ -8002,7 +8000,6 @@ address=/sonnyquality.com/#
 address=/sonoransurplus.com/#
 address=/sonryobig.com/#
 address=/sonuka-handel.net/#
-address=/sooloo.shop/#
 address=/sorbery.com/#
 address=/soreano.de/#
 address=/sorelschuhe.com/#
@@ -8149,7 +8146,6 @@ address=/stehle-fritz.de/#
 address=/steiner-autoreifen.com/#
 address=/steinmetz-hahn.de/#
 address=/stellarfx.co/#
-address=/stenado.de/#
 address=/stephanie-gustai.de/#
 address=/stephanwagner.at/#
 address=/sterback.com/#
@@ -8393,7 +8389,6 @@ address=/susanlattwein.com/#
 address=/susanreginato.com/#
 address=/sushiwalkca.com/#
 address=/sustagon.com/#
-address=/sv-blaschke.de/#
 address=/sven-kehmeier.de/#
 address=/svgbarbis.de/#
 address=/swarmgreat.club/#
@@ -8566,7 +8561,6 @@ address=/tennisnew.com/#
 address=/tennistechnical.com/#
 address=/terange.com/#
 address=/teras.at/#
-address=/termink.com/#
 address=/ternsome.top/#
 address=/terrific.de/#
 address=/tes-ib.cloud/#
@@ -8587,7 +8581,6 @@ address=/tetbatmaschinen.com/#
 address=/tetewelpen.com/#
 address=/tetherc.com/#
 address=/teva-berlin.de/#
-address=/teva-osterreich.at/#
 address=/teva-osterreich.com/#
 address=/tevaaustria.com/#
 address=/tevaberlin.de/#
@@ -8788,7 +8781,6 @@ address=/toastgrill.de/#
 address=/toastmaster.at/#
 address=/tobeachsurf.com/#
 address=/tobiflix.de/#
-address=/tobiwag.de/#
 address=/toddlerwalker.store/#
 address=/todo-para-camping-caravans.es/#
 address=/todt-gartenhandel.com/#
@@ -8827,7 +8819,6 @@ address=/toolbasetotal.com/#
 address=/toolbaseus.com/#
 address=/toolbaypro.com/#
 address=/toolbrandshop.com/#
-address=/tooldraper.com/#
 address=/tooleasepro.com/#
 address=/toolefficient.com/#
 address=/toolelectrashop.com/#
@@ -8962,7 +8953,6 @@ address=/transporter-footwear.com/#
 address=/transportsmer.com/#
 address=/traum-deko.de/#
 address=/traumhafttragen.de/#
-address=/traumland24.net/#
 address=/traumwolke.shop/#
 address=/travel-bimeh.de/#
 address=/travisscottofficial.com/#
@@ -9490,7 +9480,6 @@ address=/visionfancyclothing.com/#
 address=/visitaserbia.com/#
 address=/vitacola-gratis.de/#
 address=/vital-rezeptfrei.de/#
-address=/vitalgesund.at/#
 address=/vitaliko.com/#
 address=/vitalis-pankratius.de/#
 address=/vitalitiesdeluxe.com/#

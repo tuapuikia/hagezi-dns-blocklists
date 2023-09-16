@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Sep 2023 10:29 UTC
-# Version: 2023.0916.1029.52
+# Last modified: 16 Sep 2023 22:39 UTC
+# Version: 2023.0916.2239.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 10003
+# Number of entries: 9992
 #
 11trikots.com
 12-suchen.de
@@ -7507,7 +7507,6 @@ sauconylaufschuhe.at
 sauconyschuhe.de
 savas-reifenhandel.com
 saycom.net
-scarpaoutletportugal.com
 scarpaschuheoutlet.at
 scarpaschuhesale.at
 scentuelle.de
@@ -7594,7 +7593,6 @@ schwanhaus.de
 schweden-hus.at
 schweizch.com
 schweizeruhrenbillig.com
-sci-brennholz.com
 scientificentre.com
 sclothesbrand.com
 scooga.at
@@ -8002,7 +8000,6 @@ sonnyquality.com
 sonoransurplus.com
 sonryobig.com
 sonuka-handel.net
-sooloo.shop
 sorbery.com
 soreano.de
 sorelschuhe.com
@@ -8149,7 +8146,6 @@ stehle-fritz.de
 steiner-autoreifen.com
 steinmetz-hahn.de
 stellarfx.co
-stenado.de
 stephanie-gustai.de
 stephanwagner.at
 sterback.com
@@ -8393,7 +8389,6 @@ susanlattwein.com
 susanreginato.com
 sushiwalkca.com
 sustagon.com
-sv-blaschke.de
 sven-kehmeier.de
 svgbarbis.de
 swarmgreat.club
@@ -8566,7 +8561,6 @@ tennisnew.com
 tennistechnical.com
 terange.com
 teras.at
-termink.com
 ternsome.top
 terrific.de
 tes-ib.cloud
@@ -8587,7 +8581,6 @@ tetbatmaschinen.com
 tetewelpen.com
 tetherc.com
 teva-berlin.de
-teva-osterreich.at
 teva-osterreich.com
 tevaaustria.com
 tevaberlin.de
@@ -8788,7 +8781,6 @@ toastgrill.de
 toastmaster.at
 tobeachsurf.com
 tobiflix.de
-tobiwag.de
 toddlerwalker.store
 todo-para-camping-caravans.es
 todt-gartenhandel.com
@@ -8827,7 +8819,6 @@ toolbasetotal.com
 toolbaseus.com
 toolbaypro.com
 toolbrandshop.com
-tooldraper.com
 tooleasepro.com
 toolefficient.com
 toolelectrashop.com
@@ -8962,7 +8953,6 @@ transporter-footwear.com
 transportsmer.com
 traum-deko.de
 traumhafttragen.de
-traumland24.net
 traumwolke.shop
 travel-bimeh.de
 travisscottofficial.com
@@ -9490,7 +9480,6 @@ visionfancyclothing.com
 visitaserbia.com
 vitacola-gratis.de
 vital-rezeptfrei.de
-vitalgesund.at
 vitaliko.com
 vitalis-pankratius.de
 vitalitiesdeluxe.com
