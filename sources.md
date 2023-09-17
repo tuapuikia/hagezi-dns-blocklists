@@ -523,6 +523,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kasp
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt
