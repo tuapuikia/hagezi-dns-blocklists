@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Sep 2023 21:56 UTC
-# Version: 2023.0914.2156.38
+# Last modified: 17 Sep 2023 10:16 UTC
+# Version: 2023.0917.1016.28
 # Syntax: DNSMasq
-# Number of entries: 2505
+# Number of entries: 2506
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -2476,6 +2476,7 @@ address=/ylink.info/#
 address=/yogavpn.com/#
 address=/youcanhide.net/#
 address=/youfreeproxytube.com/#
+address=/dns.youni.win/#
 address=/youproxytube.com/#
 address=/your-dns.run/#
 address=/your-freedom.de/#
