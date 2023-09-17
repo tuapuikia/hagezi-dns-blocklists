@@ -4753,3 +4753,6 @@ lowes.sjv.io
 # https://github.com/hagezi/dns-blocklists/issues/1582
 uzone.id
 
+# https://github.com/hagezi/dns-blocklists/issues/1586
+quectel.com
+

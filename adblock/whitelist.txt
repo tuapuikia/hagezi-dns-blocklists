@@ -5195,3 +5195,7 @@
 @@|uzone.id^
 @@|www.uzone.id^
 
+! https://github.com/hagezi/dns-blocklists/issues/1586
+@@|quectel.com^
+@@|www.quectel.com^
+
