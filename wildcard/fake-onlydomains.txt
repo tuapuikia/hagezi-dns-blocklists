@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2023 10:35 UTC
-# Version: 2023.0917.1035.23
+# Last modified: 18 Sep 2023 10:36 UTC
+# Version: 2023.0918.1036.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 9992
+# Number of entries: 9998
 #
 11trikots.com
 12-suchen.de
@@ -1772,6 +1772,7 @@ corsaircontrol.pro
 cortana-world.com
 cosgearup.com
 cosgos.de
+cosixotic.de
 cosmeo.at
 cosmeticontime.com
 cosmeticotwoo.com
@@ -3114,6 +3115,7 @@ foxflix.de
 foxnewstrade.org
 fpilahue.com
 fr-energie-bois.com
+fraktion-bfz-gruene.de
 franceshopping.online
 frankiemakeupartist.com
 frankiesdubai.com
@@ -3391,6 +3393,7 @@ giftwalldecor.com
 gigachains.com
 gigantwebhost.de
 gigilovely.co
+gilbert-onlinehandel.de
 gilltry.com
 ginkgo-blumen.de
 ginvest.pro
@@ -4551,6 +4554,7 @@ kindsoftools.com
 kinetship.top
 king7seven.com
 kingfinds.de
+kingseven-shop.com
 kingsevensunglasses.com
 kinky-events.at
 kinoplay.de
@@ -4846,7 +4850,6 @@ lecker-box.de
 lecohealth.com
 leddeckenpanels.de
 leditgreen.fr
-legalhighlabs.com
 legleave.com
 leguanoschuhe.at
 lehmann-versand.de
@@ -5337,6 +5340,7 @@ menbrandwear.com
 mencategory.com
 menclothesmall.com
 mendebikes.de
+mendira.de
 menfashionpromotion.store
 menhigh-level.com
 menikomi.com
@@ -5523,7 +5527,6 @@ montedino.at
 montflames.com
 montpeds.com
 moodofthecity.com
-moonplay.de
 morebicycle.com
 morenius.de
 morgante.at
@@ -7773,7 +7776,6 @@ shopkrone.de
 shoplacademie.com
 shopladybag.com
 shopladyfashion.com
-shoplightx.com
 shopluxex.com
 shoplysticx.com
 shoplyt.store
@@ -7810,6 +7812,7 @@ shoptennisracquets.com
 shoptumisales.de
 shopwatit.com
 shopwesternhats.com
+shopyys-d.top
 shortpantssales.com
 shortsleeveonline.com
 shortsoff.com
@@ -9338,6 +9341,7 @@ uttasheilerpraxis.de
 uvh-apotheke.de
 uynoutdoor.com
 vacationay.com
+vailia-parfuemerie.com
 valiozo.co
 vallants.at
 valley-brennholz.com
@@ -9413,6 +9417,7 @@ verkaufre.de
 verkaufschuhe.de
 verkaufsportmode.com
 vero-mode.nl
+versand-ogitoys.de
 versand-rezeptfrei.de
 versandhaus-kohler.de
 versandpharma.com
@@ -9852,6 +9857,7 @@ xenon-brenner.com
 xeond.com
 xeroshoesaustria.com
 xfatoistu.com
+xh-a7.com
 xhfadacai.com
 xiaomiofficial.ee
 xilmubaik.shop

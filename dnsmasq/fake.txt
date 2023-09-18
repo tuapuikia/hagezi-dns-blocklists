@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2023 10:35 UTC
-# Version: 2023.0917.1035.23
+# Last modified: 18 Sep 2023 10:36 UTC
+# Version: 2023.0918.1036.31
 # Syntax: DNSMasq
-# Number of entries: 9992
+# Number of entries: 9998
 #
 address=/11trikots.com/#
 address=/12-suchen.de/#
@@ -1772,6 +1772,7 @@ address=/corsaircontrol.pro/#
 address=/cortana-world.com/#
 address=/cosgearup.com/#
 address=/cosgos.de/#
+address=/cosixotic.de/#
 address=/cosmeo.at/#
 address=/cosmeticontime.com/#
 address=/cosmeticotwoo.com/#
@@ -3114,6 +3115,7 @@ address=/foxflix.de/#
 address=/foxnewstrade.org/#
 address=/fpilahue.com/#
 address=/fr-energie-bois.com/#
+address=/fraktion-bfz-gruene.de/#
 address=/franceshopping.online/#
 address=/frankiemakeupartist.com/#
 address=/frankiesdubai.com/#
@@ -3391,6 +3393,7 @@ address=/giftwalldecor.com/#
 address=/gigachains.com/#
 address=/gigantwebhost.de/#
 address=/gigilovely.co/#
+address=/gilbert-onlinehandel.de/#
 address=/gilltry.com/#
 address=/ginkgo-blumen.de/#
 address=/ginvest.pro/#
@@ -4551,6 +4554,7 @@ address=/kindsoftools.com/#
 address=/kinetship.top/#
 address=/king7seven.com/#
 address=/kingfinds.de/#
+address=/kingseven-shop.com/#
 address=/kingsevensunglasses.com/#
 address=/kinky-events.at/#
 address=/kinoplay.de/#
@@ -4846,7 +4850,6 @@ address=/lecker-box.de/#
 address=/lecohealth.com/#
 address=/leddeckenpanels.de/#
 address=/leditgreen.fr/#
-address=/legalhighlabs.com/#
 address=/legleave.com/#
 address=/leguanoschuhe.at/#
 address=/lehmann-versand.de/#
@@ -5337,6 +5340,7 @@ address=/menbrandwear.com/#
 address=/mencategory.com/#
 address=/menclothesmall.com/#
 address=/mendebikes.de/#
+address=/mendira.de/#
 address=/menfashionpromotion.store/#
 address=/menhigh-level.com/#
 address=/menikomi.com/#
@@ -5523,7 +5527,6 @@ address=/montedino.at/#
 address=/montflames.com/#
 address=/montpeds.com/#
 address=/moodofthecity.com/#
-address=/moonplay.de/#
 address=/morebicycle.com/#
 address=/morenius.de/#
 address=/morgante.at/#
@@ -7773,7 +7776,6 @@ address=/shopkrone.de/#
 address=/shoplacademie.com/#
 address=/shopladybag.com/#
 address=/shopladyfashion.com/#
-address=/shoplightx.com/#
 address=/shopluxex.com/#
 address=/shoplysticx.com/#
 address=/shoplyt.store/#
@@ -7810,6 +7812,7 @@ address=/shoptennisracquets.com/#
 address=/shoptumisales.de/#
 address=/shopwatit.com/#
 address=/shopwesternhats.com/#
+address=/shopyys-d.top/#
 address=/shortpantssales.com/#
 address=/shortsleeveonline.com/#
 address=/shortsoff.com/#
@@ -9338,6 +9341,7 @@ address=/uttasheilerpraxis.de/#
 address=/uvh-apotheke.de/#
 address=/uynoutdoor.com/#
 address=/vacationay.com/#
+address=/vailia-parfuemerie.com/#
 address=/valiozo.co/#
 address=/vallants.at/#
 address=/valley-brennholz.com/#
@@ -9413,6 +9417,7 @@ address=/verkaufre.de/#
 address=/verkaufschuhe.de/#
 address=/verkaufsportmode.com/#
 address=/vero-mode.nl/#
+address=/versand-ogitoys.de/#
 address=/versand-rezeptfrei.de/#
 address=/versandhaus-kohler.de/#
 address=/versandpharma.com/#
@@ -9852,6 +9857,7 @@ address=/xenon-brenner.com/#
 address=/xeond.com/#
 address=/xeroshoesaustria.com/#
 address=/xfatoistu.com/#
+address=/xh-a7.com/#
 address=/xhfadacai.com/#
 address=/xiaomiofficial.ee/#
 address=/xilmubaik.shop/#

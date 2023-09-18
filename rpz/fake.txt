@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694946900 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1695033360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2023 10:35 UTC
-; Version: 2023.0917.1035.23
+; Last modified: 18 Sep 2023 10:36 UTC
+; Version: 2023.0918.1036.31
 ; Syntax: RPZ
-; Number of entries: 19984
+; Number of entries: 19996
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -6914,6 +6914,8 @@ kindsoftools.com CNAME .
 *.kindsoftools.com CNAME .
 king7seven.com CNAME .
 *.king7seven.com CNAME .
+kingseven-shop.com CNAME .
+*.kingseven-shop.com CNAME .
 kingsevensunglasses.com CNAME .
 *.kingsevensunglasses.com CNAME .
 kinzokusteel.com CNAME .
@@ -7230,8 +7232,6 @@ leboulove.com CNAME .
 *.leboulove.com CNAME .
 lecohealth.com CNAME .
 *.lecohealth.com CNAME .
-legalhighlabs.com CNAME .
-*.legalhighlabs.com CNAME .
 legleave.com CNAME .
 *.legleave.com CNAME .
 leisure-bagssales.com CNAME .
@@ -10786,8 +10786,6 @@ shopladybag.com CNAME .
 *.shopladybag.com CNAME .
 shopladyfashion.com CNAME .
 *.shopladyfashion.com CNAME .
-shoplightx.com CNAME .
-*.shoplightx.com CNAME .
 shopluxex.com CNAME .
 *.shopluxex.com CNAME .
 shoplysticx.com CNAME .
@@ -12960,6 +12958,8 @@ uynoutdoor.com CNAME .
 *.uynoutdoor.com CNAME .
 vacationay.com CNAME .
 *.vacationay.com CNAME .
+vailia-parfuemerie.com CNAME .
+*.vailia-parfuemerie.com CNAME .
 valley-brennholz.com CNAME .
 *.valley-brennholz.com CNAME .
 valuablebike.com CNAME .
@@ -13500,6 +13500,8 @@ xeroshoesaustria.com CNAME .
 *.xeroshoesaustria.com CNAME .
 xfatoistu.com CNAME .
 *.xfatoistu.com CNAME .
+xh-a7.com CNAME .
+*.xh-a7.com CNAME .
 xhfadacai.com CNAME .
 *.xhfadacai.com CNAME .
 xinghly.com CNAME .
@@ -14392,6 +14394,8 @@ copenhagenschuhesale.de CNAME .
 *.copenhagenschuhesale.de CNAME .
 cosgos.de CNAME .
 *.cosgos.de CNAME .
+cosixotic.de CNAME .
+*.cosixotic.de CNAME .
 cosmopoint.de CNAME .
 *.cosmopoint.de CNAME .
 cotsrabatt.de CNAME .
@@ -14996,6 +15000,8 @@ fouque.de CNAME .
 *.fouque.de CNAME .
 foxflix.de CNAME .
 *.foxflix.de CNAME .
+fraktion-bfz-gruene.de CNAME .
+*.fraktion-bfz-gruene.de CNAME .
 franzisko-dachdecker.de CNAME .
 *.franzisko-dachdecker.de CNAME .
 frau-grau.de CNAME .
@@ -15128,6 +15134,8 @@ giesswein-outdoor.de CNAME .
 *.giesswein-outdoor.de CNAME .
 gigantwebhost.de CNAME .
 *.gigantwebhost.de CNAME .
+gilbert-onlinehandel.de CNAME .
+*.gilbert-onlinehandel.de CNAME .
 ginkgo-blumen.de CNAME .
 *.ginkgo-blumen.de CNAME .
 giondo.de CNAME .
@@ -16096,6 +16104,8 @@ melkberg.de CNAME .
 *.melkberg.de CNAME .
 mendebikes.de CNAME .
 *.mendebikes.de CNAME .
+mendira.de CNAME .
+*.mendira.de CNAME .
 meronia.de CNAME .
 *.meronia.de CNAME .
 merrelloutletonline.de CNAME .
@@ -16194,8 +16204,6 @@ monokompakt.de CNAME .
 *.monokompakt.de CNAME .
 montecjacke.de CNAME .
 *.montecjacke.de CNAME .
-moonplay.de CNAME .
-*.moonplay.de CNAME .
 morenius.de CNAME .
 *.morenius.de CNAME .
 mosano.de CNAME .
@@ -17594,6 +17602,8 @@ verkaufre.de CNAME .
 *.verkaufre.de CNAME .
 verkaufschuhe.de CNAME .
 *.verkaufschuhe.de CNAME .
+versand-ogitoys.de CNAME .
+*.versand-ogitoys.de CNAME .
 versand-rezeptfrei.de CNAME .
 *.versand-rezeptfrei.de CNAME .
 versandhaus-kohler.de CNAME .
@@ -19792,6 +19802,8 @@ seigesund.top CNAME .
 *.seigesund.top CNAME .
 senthiln.top CNAME .
 *.senthiln.top CNAME .
+shopyys-d.top CNAME .
+*.shopyys-d.top CNAME .
 simulward.top CNAME .
 *.simulward.top CNAME .
 sneakernews79.top CNAME .
