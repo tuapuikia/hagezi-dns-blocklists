@@ -54,9 +54,7 @@ https://get.domainsblacklists.com/blacklist.txt
 https://gist.githubusercontent.com/agneevX/8916103478369dd5966c84ec8665c30c/raw/bd91f4a2570579e5652f3dd7eb715534f4867e8c/blocklist.txt
 https://github.com/blocklistproject/Lists/blob/master/piracy.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
-https://github.com/DRSDavidSoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
-https://github.com/DRSDavidSoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AndroidApps.md
 https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/AudioBooks.md
 https://github.com/SeppPenner/awesome-german-piracy/blob/master/Pages/CryptoPlaces.md
@@ -215,7 +213,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/h
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
@@ -231,7 +228,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
 https://raw.githubusercontent.com/cats-team/adrules/main/ad-domains.txt
-https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
@@ -458,12 +454,9 @@ https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/ho
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
-https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
-https://raw.githubusercontent.com/realodix/AdBlockID/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/realodix/adblockid/master/src/adservers.adfl
-https://raw.githubusercontent.com/realodix/AdBlockID/master/src/adservers.adfl
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
@@ -571,14 +564,12 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.tx
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 https://raw.githubusercontent.com/velesila/yhosts/master/hosts
-https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yous/youslist/master/hosts.txt
-https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
