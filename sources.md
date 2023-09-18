@@ -251,8 +251,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-i
 https://raw.githubusercontent.com/braveinnovators/url-blocklist/main/filters/url-blocklist-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/ad-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
-https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
-https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/ads/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/CipherOps/AdList/main/Blocklist
