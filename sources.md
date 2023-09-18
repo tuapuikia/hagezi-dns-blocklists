@@ -490,6 +490,7 @@ https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/hosts-file.tx
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/domains.json
 https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
