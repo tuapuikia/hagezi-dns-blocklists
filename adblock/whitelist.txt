@@ -5202,3 +5202,7 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1588
 @@|tracking.packeta.com^
 
+! Drivers ...
+@@|driverpack.io^
+@@|www.driverpack.io^
+
