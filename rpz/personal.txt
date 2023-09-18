@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1694953020 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1694996280 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,8 +7,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Sep 2023 12:17 UTC
-; Version: 2023.0917.1217.42
+; Last modified: 18 Sep 2023 00:18 UTC
+; Version: 2023.0918.0018.13
 ; Syntax: RPZ
 ; Number of entries: 103900
 ;
@@ -3782,8 +3782,6 @@ wonderful-day.club CNAME .
 *.wonderful-day.club CNAME .
 barnes.send.cm CNAME .
 *.barnes.send.cm CNAME .
-0olut8.cn CNAME .
-*.0olut8.cn CNAME .
 10000xing.cn CNAME .
 *.10000xing.cn CNAME .
 sdc.10086.cn CNAME .
@@ -4356,8 +4354,6 @@ flash.cn CNAME .
 *.flash.cn CNAME .
 api-flow.flyme.cn CNAME .
 *.api-flow.flyme.cn CNAME .
-madx.flyme.cn CNAME .
-*.madx.flyme.cn CNAME .
 t-flow.flyme.cn CNAME .
 *.t-flow.flyme.cn CNAME .
 fm120.cn CNAME .
@@ -4408,8 +4404,6 @@ hkkeafj.cn CNAME .
 *.hkkeafj.cn CNAME .
 adeng.hpplay.cn CNAME .
 *.adeng.hpplay.cn CNAME .
-conf.hpplay.cn CNAME .
-*.conf.hpplay.cn CNAME .
 imdns.hpplay.cn CNAME .
 *.imdns.hpplay.cn CNAME .
 pin.hpplay.cn CNAME .
@@ -4432,8 +4426,6 @@ idynbff.cn CNAME .
 *.idynbff.cn CNAME .
 iimedia.cn CNAME .
 *.iimedia.cn CNAME .
-pyk.in-neo.cn CNAME .
-*.pyk.in-neo.cn CNAME .
 inmobi.cn CNAME .
 *.inmobi.cn CNAME .
 inmobicdn.cn CNAME .
@@ -4462,8 +4454,6 @@ jzdgn.cn CNAME .
 *.jzdgn.cn CNAME .
 jzdwl4.cn CNAME .
 *.jzdwl4.cn CNAME .
-smart-789.kakamobi.cn CNAME .
-*.smart-789.kakamobi.cn CNAME .
 kdmmm.cn CNAME .
 *.kdmmm.cn CNAME .
 kmlxlkz.cn CNAME .
@@ -4472,8 +4462,6 @@ kmpjrjz.cn CNAME .
 *.kmpjrjz.cn CNAME .
 kxlogo.knet.cn CNAME .
 *.kxlogo.knet.cn CNAME .
-rr.knet.cn CNAME .
-*.rr.knet.cn CNAME .
 ss.knet.cn CNAME .
 *.ss.knet.cn CNAME .
 knliylh.cn CNAME .
@@ -21590,8 +21578,6 @@ dacdac.com CNAME .
 *.dacdac.com CNAME .
 dacmaiss.com CNAME .
 *.dacmaiss.com CNAME .
-info.dadafarada.com CNAME .
-*.info.dadafarada.com CNAME .
 dadslimz.com CNAME .
 *.dadslimz.com CNAME .
 daejyre.com CNAME .
@@ -22132,6 +22118,8 @@ dearlystoop.com CNAME .
 *.dearlystoop.com CNAME .
 dearrupiah.com CNAME .
 *.dearrupiah.com CNAME .
+deatchshipsmotor.com CNAME .
+*.deatchshipsmotor.com CNAME .
 debauchavailable.com CNAME .
 *.debauchavailable.com CNAME .
 debism.com CNAME .
@@ -22796,6 +22784,8 @@ smetrics.dickssportinggoods.com CNAME .
 *.smetrics.dickssportinggoods.com CNAME .
 diclotrans.com CNAME .
 *.diclotrans.com CNAME .
+dicouksa.com CNAME .
+*.dicouksa.com CNAME .
 dictationtense.com CNAME .
 *.dictationtense.com CNAME .
 dictatormiserablealec.com CNAME .
@@ -25160,8 +25150,6 @@ emeu0circ.com CNAME .
 *.emeu0circ.com CNAME .
 emigrantblunder.com CNAME .
 *.emigrantblunder.com CNAME .
-emirateshf.com CNAME .
-*.emirateshf.com CNAME .
 metric.emiratesnbdcapital.com CNAME .
 *.metric.emiratesnbdcapital.com CNAME .
 emitlabelreproduction.com CNAME .
@@ -34040,6 +34028,8 @@ infectedrepentearl.com CNAME .
 *.infectedrepentearl.com CNAME .
 inferiorface.com CNAME .
 *.inferiorface.com CNAME .
+inferiorkate.com CNAME .
+*.inferiorkate.com CNAME .
 inferrig.com CNAME .
 *.inferrig.com CNAME .
 infesthazardous.com CNAME .
@@ -48718,6 +48708,8 @@ privatecash.com CNAME .
 *.privatecash.com CNAME .
 privateleaflet.com CNAME .
 *.privateleaflet.com CNAME .
+privatelookhack.com CNAME .
+*.privatelookhack.com CNAME .
 privatproxy-chat.com CNAME .
 *.privatproxy-chat.com CNAME .
 privatproxy-schnellvpn.com CNAME .
@@ -60810,6 +60802,8 @@ touchads.com CNAME .
 *.touchads.com CNAME .
 touchclarity.com CNAME .
 *.touchclarity.com CNAME .
+toughtoxacid.com CNAME .
+*.toughtoxacid.com CNAME .
 touptaisu.com CNAME .
 *.touptaisu.com CNAME .
 touracopilaf.com CNAME .
@@ -62264,8 +62258,6 @@ ucus.ucweb.com CNAME .
 *.ucus.ucweb.com CNAME .
 union.ucweb.com CNAME .
 *.union.ucweb.com CNAME .
-up4.ucweb.com CNAME .
-*.up4.ucweb.com CNAME .
 utp-dmp.ucweb.com CNAME .
 *.utp-dmp.ucweb.com CNAME .
 uczzd.com CNAME .
@@ -66780,6 +66772,8 @@ jy8dc.xhamster.com CNAME .
 *.jy8dc.xhamster.com CNAME .
 kafdlwyw4z.xhamster.com CNAME .
 *.kafdlwyw4z.xhamster.com CNAME .
+linkoftime.xhamster.com CNAME .
+*.linkoftime.xhamster.com CNAME .
 modelapi.xhamster.com CNAME .
 *.modelapi.xhamster.com CNAME .
 modelgateway.xhamster.com CNAME .
@@ -74630,6 +74624,8 @@ eopleshouldt.info CNAME .
 *.eopleshouldt.info CNAME .
 eoveukrnme.info CNAME .
 *.eoveukrnme.info CNAME .
+eownouncillors.info CNAME .
+*.eownouncillors.info CNAME .
 ercockremarkedo.info CNAME .
 *.ercockremarkedo.info CNAME .
 erconditingde.info CNAME .
@@ -89666,6 +89662,8 @@ optimove.net CNAME .
 *.optimove.net CNAME .
 smetrics.optimum.net CNAME .
 *.smetrics.optimum.net CNAME .
+a.opumo.net CNAME .
+*.a.opumo.net CNAME .
 orbitnetwork.net CNAME .
 *.orbitnetwork.net CNAME .
 tracker-ken.ortb.net CNAME .
@@ -102128,6 +102126,8 @@ groundtheco.xyz CNAME .
 *.groundtheco.xyz CNAME .
 grqjpukbyvypq.xyz CNAME .
 *.grqjpukbyvypq.xyz CNAME .
+gruwalom.xyz CNAME .
+*.gruwalom.xyz CNAME .
 grxeyig.xyz CNAME .
 *.grxeyig.xyz CNAME .
 gsiswensaido.xyz CNAME .

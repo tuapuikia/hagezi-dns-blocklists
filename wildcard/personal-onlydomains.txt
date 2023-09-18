@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2023 12:17 UTC
-# Version: 2023.0917.1217.42
+# Last modified: 18 Sep 2023 00:18 UTC
+# Version: 2023.0918.0018.13
 # Syntax: Domains (without subdomains)
 # Number of entries: 51950
 #
@@ -90,7 +90,6 @@ ebb19ca025.0f3887f8af.com
 0i0i0i0.com
 0krdn3.com
 0n-line.tv
-0olut8.cn
 0r17374.com
 0redire.com
 0sntp7dnrr.com
@@ -14464,7 +14463,6 @@ dabletoverdid.space
 dacdac.com
 dacmaiss.com
 dacyh.cyou
-info.dadafarada.com
 dadde.cn
 dadosgratis.club
 dadslimz.com
@@ -14968,6 +14966,7 @@ dearfiring.com
 dearlyseedsad.com
 dearlystoop.com
 dearrupiah.com
+deatchshipsmotor.com
 deavynuotbrohw.xyz
 debatminkish.uno
 debauchavailable.com
@@ -16814,6 +16813,7 @@ app.dickssportinggoods.com
 inqjal.dickssportinggoods.com
 smetrics.dickssportinggoods.com
 diclotrans.com
+dicouksa.com
 dictationtense.com
 dictatormiserablealec.com
 spanids.dictionary.com
@@ -18662,7 +18662,6 @@ emeu0circ.com
 emgthropositeas.info
 emicalcove.xyz
 emigrantblunder.com
-emirateshf.com
 metric.emiratesnbdcapital.com
 countervov.emitech.vn
 emitlabelreproduction.com
@@ -18901,6 +18900,7 @@ eopleshouldt.info
 eorezo.com
 eoseurlingeringonl.xyz
 eoveukrnme.info
+eownouncillors.info
 ep4p.com
 epac.to
 epapersdaily.com
@@ -20579,7 +20579,6 @@ flyingsquirellsmooch.com
 metrics.certs.flylevel.com
 flymangoo.com
 api-flow.flyme.cn
-madx.flyme.cn
 t-flow.flyme.cn
 flymylife.info
 delivery-ci360.flypgs.com
@@ -23020,6 +23019,7 @@ grupocemx.com
 grupolopezoft.com
 grupovo.bg
 analytics.gruvi.tv
+gruwalom.xyz
 grvmedia.com
 grxeyig.xyz
 ads.gry-online.pl
@@ -24376,7 +24376,6 @@ hpmarzhnny.com
 banner.hpmdnetwork.ru
 analytics.hpn.com
 adeng.hpplay.cn
-conf.hpplay.cn
 imdns.hpplay.cn
 pin.hpplay.cn
 rp.hpplay.cn
@@ -25255,7 +25254,6 @@ stats.in.th
 truehits.in.th
 waterfilter.in.ua
 in-appadvertising.com
-pyk.in-neo.cn
 in-page-push.com
 in-page-push.net
 inabilitytraditional.com
@@ -25393,6 +25391,7 @@ infantrywarden.com
 infectedrepentearl.com
 receiver-metis.infeng.site
 inferiorface.com
+inferiorkate.com
 inferrig.com
 infesthazardous.com
 infestpaddle.com
@@ -27301,7 +27300,6 @@ api-ad-data.kajicam.com
 log.kajicam.com
 log.kaka.me
 fp.kakaku.com
-smart-789.kakamobi.cn
 ad.kakao.com
 act.ds.kakao.com
 serv.ds.kakao.com
@@ -27766,7 +27764,6 @@ kneescountdownenforcement.com
 kneesettingflashing.com
 knemuso.ru
 kxlogo.knet.cn
-rr.knet.cn
 ss.knet.cn
 knewwholesomecharming.com
 kneylhewould.xyz
@@ -34835,6 +34832,7 @@ optoutadvertising.com
 smetrics.optum.com
 optyruntchan.com
 optzsrv.com
+a.opumo.net
 opuxppwnnf.com
 opvanillishan.com
 opxaxqxaqo.com
@@ -37221,6 +37219,7 @@ private-show.live
 privatecash.com
 privatelands.biz
 privateleaflet.com
+privatelookhack.com
 privatproxy-blog.xyz
 privatproxy-cdn.xyz
 privatproxy-chat.com
@@ -45932,6 +45931,7 @@ touchoshirase.net
 analytics.touchplan.io
 touchtacchi.net
 tougherrancor.website
+toughtoxacid.com
 touptaisu.com
 touptaiw.xyz
 data-af9be266ee.tour-magazin.de
@@ -47019,7 +47019,6 @@ ucsec.ucweb.com
 ucsec1.ucweb.com
 ucus.ucweb.com
 union.ucweb.com
-up4.ucweb.com
 utp-dmp.ucweb.com
 uczzd.com
 uczzd.net
@@ -50430,6 +50429,7 @@ jefferson.xhamster.com
 jhat1n4.xhamster.com
 jy8dc.xhamster.com
 kafdlwyw4z.xhamster.com
+linkoftime.xhamster.com
 modelapi.xhamster.com
 modelgateway.xhamster.com
 mqpx6qs.xhamster.com
