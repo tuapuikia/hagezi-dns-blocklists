@@ -4756,3 +4756,6 @@ uzone.id
 # https://github.com/hagezi/dns-blocklists/issues/1586
 quectel.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1588
+tracking.packeta.com
+

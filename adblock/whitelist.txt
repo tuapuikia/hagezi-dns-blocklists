@@ -5199,3 +5199,6 @@
 @@|quectel.com^
 @@|www.quectel.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1588
+@@|tracking.packeta.com^
+
